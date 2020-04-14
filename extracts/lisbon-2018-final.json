@@ -1,0 +1,12100 @@
+{
+  "italy": {
+    "the-netherlands": {
+      "jury_ranks": [
+        17,
+        11,
+        8,
+        8,
+        9
+      ],
+      "jury_rank": 13,
+      "televote_rank": 18
+    },
+    "moldova": {
+      "jury_ranks": [
+        13,
+        19,
+        14,
+        11,
+        20
+      ],
+      "jury_rank": 17,
+      "televote_rank": 2
+    },
+    "ukraine": {
+      "jury_ranks": [
+        24,
+        24,
+        20,
+        25,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 3
+    },
+    "norway": {
+      "jury_ranks": [
+        2,
+        3,
+        2,
+        3,
+        3
+      ],
+      "jury_rank": 1,
+      "televote_rank": 19
+    },
+    "slovenia": {
+      "jury_ranks": [
+        23,
+        18,
+        21,
+        22,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 22
+    },
+    "estonia": {
+      "jury_ranks": [
+        11,
+        2,
+        4,
+        16,
+        22
+      ],
+      "jury_rank": 7,
+      "televote_rank": 5
+    },
+    "israel": {
+      "jury_ranks": [
+        3,
+        8,
+        11,
+        9,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 4
+    },
+    "australia": {
+      "jury_ranks": [
+        7,
+        6,
+        19,
+        12,
+        11
+      ],
+      "jury_rank": 12,
+      "televote_rank": 23
+    },
+    "denmark": {
+      "jury_ranks": [
+        8,
+        1,
+        1,
+        10,
+        8
+      ],
+      "jury_rank": 3,
+      "televote_rank": 7
+    },
+    "serbia": {
+      "jury_ranks": [
+        20,
+        13,
+        15,
+        23,
+        18
+      ],
+      "jury_rank": 19,
+      "televote_rank": 10
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        12,
+        20,
+        18,
+        18,
+        17
+      ],
+      "jury_rank": 18,
+      "televote_rank": 12
+    },
+    "cyprus": {
+      "jury_ranks": [
+        6,
+        5,
+        12,
+        5,
+        16
+      ],
+      "jury_rank": 8,
+      "televote_rank": 6
+    },
+    "ireland": {
+      "jury_ranks": [
+        25,
+        4,
+        7,
+        7,
+        5
+      ],
+      "jury_rank": 6,
+      "televote_rank": 14
+    },
+    "albania": {
+      "jury_ranks": [
+        19,
+        12,
+        6,
+        17,
+        25
+      ],
+      "jury_rank": 15,
+      "televote_rank": 1
+    },
+    "hungary": {
+      "jury_ranks": [
+        18,
+        25,
+        25,
+        19,
+        14
+      ],
+      "jury_rank": 22,
+      "televote_rank": 9
+    },
+    "sweden": {
+      "jury_ranks": [
+        5,
+        14,
+        24,
+        21,
+        2
+      ],
+      "jury_rank": 10,
+      "televote_rank": 24
+    },
+    "lithuania": {
+      "jury_ranks": [
+        9,
+        15,
+        9,
+        15,
+        15
+      ],
+      "jury_rank": 14,
+      "televote_rank": 13
+    },
+    "austria": {
+      "jury_ranks": [
+        22,
+        10,
+        3,
+        1,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 15
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        14,
+        23,
+        13,
+        24,
+        19
+      ],
+      "jury_rank": 20,
+      "televote_rank": 11
+    },
+    "finland": {
+      "jury_ranks": [
+        15,
+        22,
+        22,
+        20,
+        13
+      ],
+      "jury_rank": 21,
+      "televote_rank": 20
+    },
+    "portugal": {
+      "jury_ranks": [
+        21,
+        21,
+        23,
+        14,
+        21
+      ],
+      "jury_rank": 23,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        10,
+        9,
+        5,
+        2,
+        4
+      ],
+      "jury_rank": 5,
+      "televote_rank": 21
+    },
+    "spain": {
+      "jury_ranks": [
+        16,
+        17,
+        10,
+        13,
+        12
+      ],
+      "jury_rank": 16,
+      "televote_rank": 17
+    },
+    "france": {
+      "jury_ranks": [
+        4,
+        16,
+        17,
+        6,
+        7
+      ],
+      "jury_rank": 11,
+      "televote_rank": 16
+    },
+    "germany": {
+      "jury_ranks": [
+        1,
+        7,
+        16,
+        4,
+        1
+      ],
+      "jury_rank": 2,
+      "televote_rank": 8
+    }
+  },
+  "france": {
+    "the-netherlands": {
+      "jury_ranks": [
+        7,
+        5,
+        3,
+        9,
+        6
+      ],
+      "jury_rank": 5,
+      "televote_rank": 20
+    },
+    "moldova": {
+      "jury_ranks": [
+        21,
+        11,
+        20,
+        24,
+        10
+      ],
+      "jury_rank": 15,
+      "televote_rank": 5
+    },
+    "ukraine": {
+      "jury_ranks": [
+        18,
+        12,
+        15,
+        18,
+        23
+      ],
+      "jury_rank": 19,
+      "televote_rank": 7
+    },
+    "norway": {
+      "jury_ranks": [
+        19,
+        7,
+        9,
+        16,
+        17
+      ],
+      "jury_rank": 12,
+      "televote_rank": 16
+    },
+    "slovenia": {
+      "jury_ranks": [
+        5,
+        6,
+        12,
+        4,
+        25
+      ],
+      "jury_rank": 9,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        20,
+        24,
+        14,
+        17,
+        15
+      ],
+      "jury_rank": 22,
+      "televote_rank": 4
+    },
+    "israel": {
+      "jury_ranks": [
+        3,
+        1,
+        5,
+        2,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    },
+    "australia": {
+      "jury_ranks": [
+        2,
+        2,
+        2,
+        1,
+        7
+      ],
+      "jury_rank": 2,
+      "televote_rank": 23
+    },
+    "denmark": {
+      "jury_ranks": [
+        14,
+        22,
+        16,
+        14,
+        16
+      ],
+      "jury_rank": 18,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        24,
+        21,
+        23,
+        25,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 10
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        8,
+        8,
+        8,
+        5,
+        4
+      ],
+      "jury_rank": 7,
+      "televote_rank": 13
+    },
+    "cyprus": {
+      "jury_ranks": [
+        25,
+        19,
+        25,
+        15,
+        12
+      ],
+      "jury_rank": 21,
+      "televote_rank": 8
+    },
+    "ireland": {
+      "jury_ranks": [
+        11,
+        16,
+        11,
+        11,
+        3
+      ],
+      "jury_rank": 10,
+      "televote_rank": 12
+    },
+    "albania": {
+      "jury_ranks": [
+        15,
+        14,
+        18,
+        20,
+        18
+      ],
+      "jury_rank": 20,
+      "televote_rank": 17
+    },
+    "hungary": {
+      "jury_ranks": [
+        22,
+        23,
+        24,
+        23,
+        19
+      ],
+      "jury_rank": 23,
+      "televote_rank": 22
+    },
+    "sweden": {
+      "jury_ranks": [
+        13,
+        15,
+        4,
+        7,
+        2
+      ],
+      "jury_rank": 6,
+      "televote_rank": 18
+    },
+    "lithuania": {
+      "jury_ranks": [
+        10,
+        18,
+        17,
+        22,
+        20
+      ],
+      "jury_rank": 17,
+      "televote_rank": 19
+    },
+    "austria": {
+      "jury_ranks": [
+        4,
+        3,
+        6,
+        8,
+        5
+      ],
+      "jury_rank": 4,
+      "televote_rank": 14
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        23,
+        25,
+        21,
+        21,
+        22
+      ],
+      "jury_rank": 24,
+      "televote_rank": 21
+    },
+    "finland": {
+      "jury_ranks": [
+        16,
+        10,
+        19,
+        13,
+        14
+      ],
+      "jury_rank": 14,
+      "televote_rank": 24
+    },
+    "portugal": {
+      "jury_ranks": [
+        9,
+        9,
+        7,
+        12,
+        21
+      ],
+      "jury_rank": 11,
+      "televote_rank": 3
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        6,
+        13,
+        10,
+        3,
+        8
+      ],
+      "jury_rank": 8,
+      "televote_rank": 15
+    },
+    "spain": {
+      "jury_ranks": [
+        12,
+        17,
+        22,
+        19,
+        13
+      ],
+      "jury_rank": 16,
+      "televote_rank": 6
+    },
+    "italy": {
+      "jury_ranks": [
+        17,
+        20,
+        13,
+        10,
+        11
+      ],
+      "jury_rank": 13,
+      "televote_rank": 2
+    },
+    "germany": {
+      "jury_ranks": [
+        1,
+        4,
+        1,
+        6,
+        9
+      ],
+      "jury_rank": 3,
+      "televote_rank": 11
+    }
+  },
+  "ireland": {
+    "the-netherlands": {
+      "jury_ranks": [
+        20,
+        24,
+        23,
+        21,
+        16
+      ],
+      "jury_rank": 23,
+      "televote_rank": 8
+    },
+    "moldova": {
+      "jury_ranks": [
+        21,
+        22,
+        16,
+        25,
+        14
+      ],
+      "jury_rank": 21,
+      "televote_rank": 10
+    },
+    "ukraine": {
+      "jury_ranks": [
+        24,
+        17,
+        13,
+        23,
+        20
+      ],
+      "jury_rank": 20,
+      "televote_rank": 21
+    },
+    "norway": {
+      "jury_ranks": [
+        11,
+        13,
+        19,
+        18,
+        17
+      ],
+      "jury_rank": 18,
+      "televote_rank": 17
+    },
+    "slovenia": {
+      "jury_ranks": [
+        23,
+        21,
+        18,
+        22,
+        24
+      ],
+      "jury_rank": 24,
+      "televote_rank": 24
+    },
+    "estonia": {
+      "jury_ranks": [
+        13,
+        9,
+        12,
+        6,
+        5
+      ],
+      "jury_rank": 8,
+      "televote_rank": 7
+    },
+    "israel": {
+      "jury_ranks": [
+        9,
+        5,
+        1,
+        10,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 5
+    },
+    "australia": {
+      "jury_ranks": [
+        18,
+        10,
+        8,
+        11,
+        7
+      ],
+      "jury_rank": 12,
+      "televote_rank": 12
+    },
+    "denmark": {
+      "jury_ranks": [
+        19,
+        18,
+        21,
+        15,
+        9
+      ],
+      "jury_rank": 17,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        22,
+        20,
+        22,
+        24,
+        23
+      ],
+      "jury_rank": 25,
+      "televote_rank": 25
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        25,
+        16,
+        9,
+        19,
+        12
+      ],
+      "jury_rank": 16,
+      "televote_rank": 4
+    },
+    "cyprus": {
+      "jury_ranks": [
+        10,
+        3,
+        2,
+        4,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 6
+    },
+    "albania": {
+      "jury_ranks": [
+        7,
+        12,
+        5,
+        7,
+        18
+      ],
+      "jury_rank": 9,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        6,
+        25,
+        24,
+        16,
+        15
+      ],
+      "jury_rank": 14,
+      "televote_rank": 14
+    },
+    "sweden": {
+      "jury_ranks": [
+        14,
+        15,
+        17,
+        17,
+        13
+      ],
+      "jury_rank": 19,
+      "televote_rank": 18
+    },
+    "lithuania": {
+      "jury_ranks": [
+        16,
+        23,
+        14,
+        14,
+        8
+      ],
+      "jury_rank": 15,
+      "televote_rank": 1
+    },
+    "austria": {
+      "jury_ranks": [
+        12,
+        6,
+        4,
+        1,
+        10
+      ],
+      "jury_rank": 6,
+      "televote_rank": 11
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        3,
+        2,
+        10,
+        2,
+        3
+      ],
+      "jury_rank": 2,
+      "televote_rank": 20
+    },
+    "finland": {
+      "jury_ranks": [
+        17,
+        14,
+        3,
+        13,
+        11
+      ],
+      "jury_rank": 11,
+      "televote_rank": 16
+    },
+    "portugal": {
+      "jury_ranks": [
+        1,
+        4,
+        20,
+        3,
+        21
+      ],
+      "jury_rank": 5,
+      "televote_rank": 22
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        8,
+        11,
+        7,
+        12,
+        22
+      ],
+      "jury_rank": 13,
+      "televote_rank": 2
+    },
+    "spain": {
+      "jury_ranks": [
+        5,
+        8,
+        11,
+        9,
+        19
+      ],
+      "jury_rank": 10,
+      "televote_rank": 19
+    },
+    "italy": {
+      "jury_ranks": [
+        15,
+        19,
+        25,
+        20,
+        25
+      ],
+      "jury_rank": 22,
+      "televote_rank": 15
+    },
+    "france": {
+      "jury_ranks": [
+        4,
+        7,
+        15,
+        8,
+        2
+      ],
+      "jury_rank": 7,
+      "televote_rank": 13
+    },
+    "germany": {
+      "jury_ranks": [
+        2,
+        1,
+        6,
+        5,
+        6
+      ],
+      "jury_rank": 3,
+      "televote_rank": 3
+    }
+  },
+  "iceland": {
+    "the-netherlands": {
+      "jury_ranks": [
+        19,
+        21,
+        14,
+        12,
+        15
+      ],
+      "jury_rank": 19,
+      "televote_rank": 14
+    },
+    "moldova": {
+      "jury_ranks": [
+        24,
+        26,
+        16,
+        26,
+        25
+      ],
+      "jury_rank": 23,
+      "televote_rank": 17
+    },
+    "ukraine": {
+      "jury_ranks": [
+        22,
+        22,
+        23,
+        25,
+        22
+      ],
+      "jury_rank": 25,
+      "televote_rank": 20
+    },
+    "norway": {
+      "jury_ranks": [
+        17,
+        20,
+        15,
+        19,
+        17
+      ],
+      "jury_rank": 21,
+      "televote_rank": 7
+    },
+    "slovenia": {
+      "jury_ranks": [
+        10,
+        4,
+        21,
+        14,
+        24
+      ],
+      "jury_rank": 13,
+      "televote_rank": 21
+    },
+    "estonia": {
+      "jury_ranks": [
+        9,
+        3,
+        6,
+        2,
+        10
+      ],
+      "jury_rank": 4,
+      "televote_rank": 12
+    },
+    "israel": {
+      "jury_ranks": [
+        5,
+        5,
+        3,
+        8,
+        4
+      ],
+      "jury_rank": 3,
+      "televote_rank": 4
+    },
+    "australia": {
+      "jury_ranks": [
+        13,
+        18,
+        19,
+        18,
+        18
+      ],
+      "jury_rank": 20,
+      "televote_rank": 19
+    },
+    "denmark": {
+      "jury_ranks": [
+        20,
+        15,
+        7,
+        22,
+        19
+      ],
+      "jury_rank": 16,
+      "televote_rank": 1
+    },
+    "serbia": {
+      "jury_ranks": [
+        21,
+        24,
+        10,
+        16,
+        12
+      ],
+      "jury_rank": 17,
+      "televote_rank": 24
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        12,
+        19,
+        1,
+        17,
+        14
+      ],
+      "jury_rank": 10,
+      "televote_rank": 2
+    },
+    "cyprus": {
+      "jury_ranks": [
+        7,
+        7,
+        13,
+        9,
+        6
+      ],
+      "jury_rank": 9,
+      "televote_rank": 10
+    },
+    "ireland": {
+      "jury_ranks": [
+        11,
+        17,
+        12,
+        3,
+        5
+      ],
+      "jury_rank": 7,
+      "televote_rank": 13
+    },
+    "albania": {
+      "jury_ranks": [
+        2,
+        1,
+        11,
+        5,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 25
+    },
+    "hungary": {
+      "jury_ranks": [
+        14,
+        9,
+        25,
+        21,
+        20
+      ],
+      "jury_rank": 18,
+      "televote_rank": 16
+    },
+    "sweden": {
+      "jury_ranks": [
+        15,
+        6,
+        2,
+        4,
+        7
+      ],
+      "jury_rank": 6,
+      "televote_rank": 9
+    },
+    "lithuania": {
+      "jury_ranks": [
+        16,
+        25,
+        17,
+        15,
+        21
+      ],
+      "jury_rank": 22,
+      "televote_rank": 11
+    },
+    "austria": {
+      "jury_ranks": [
+        1,
+        2,
+        9,
+        1,
+        3
+      ],
+      "jury_rank": 1,
+      "televote_rank": 6
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        26,
+        23,
+        22,
+        23,
+        23
+      ],
+      "jury_rank": 26,
+      "televote_rank": 22
+    },
+    "finland": {
+      "jury_ranks": [
+        6,
+        8,
+        8,
+        20,
+        13
+      ],
+      "jury_rank": 12,
+      "televote_rank": 8
+    },
+    "portugal": {
+      "jury_ranks": [
+        23,
+        10,
+        18,
+        7,
+        16
+      ],
+      "jury_rank": 15,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        3,
+        12,
+        20,
+        10,
+        11
+      ],
+      "jury_rank": 11,
+      "televote_rank": 15
+    },
+    "spain": {
+      "jury_ranks": [
+        8,
+        11,
+        24,
+        13,
+        9
+      ],
+      "jury_rank": 14,
+      "televote_rank": 23
+    },
+    "italy": {
+      "jury_ranks": [
+        25,
+        16,
+        26,
+        24,
+        26
+      ],
+      "jury_rank": 24,
+      "televote_rank": 18
+    },
+    "france": {
+      "jury_ranks": [
+        18,
+        13,
+        4,
+        6,
+        8
+      ],
+      "jury_rank": 8,
+      "televote_rank": 5
+    },
+    "germany": {
+      "jury_ranks": [
+        4,
+        14,
+        5,
+        11,
+        1
+      ],
+      "jury_rank": 5,
+      "televote_rank": 3
+    }
+  },
+  "spain": {
+    "the-netherlands": {
+      "jury_ranks": [
+        17,
+        14,
+        18,
+        4,
+        16
+      ],
+      "jury_rank": 13,
+      "televote_rank": 19
+    },
+    "moldova": {
+      "jury_ranks": [
+        13,
+        22,
+        21,
+        22,
+        20
+      ],
+      "jury_rank": 22,
+      "televote_rank": 12
+    },
+    "ukraine": {
+      "jury_ranks": [
+        22,
+        13,
+        19,
+        19,
+        21
+      ],
+      "jury_rank": 21,
+      "televote_rank": 16
+    },
+    "norway": {
+      "jury_ranks": [
+        3,
+        11,
+        16,
+        16,
+        11
+      ],
+      "jury_rank": 11,
+      "televote_rank": 8
+    },
+    "slovenia": {
+      "jury_ranks": [
+        20,
+        6,
+        17,
+        23,
+        19
+      ],
+      "jury_rank": 17,
+      "televote_rank": 24
+    },
+    "estonia": {
+      "jury_ranks": [
+        8,
+        19,
+        6,
+        12,
+        7
+      ],
+      "jury_rank": 10,
+      "televote_rank": 9
+    },
+    "israel": {
+      "jury_ranks": [
+        2,
+        2,
+        3,
+        1,
+        5
+      ],
+      "jury_rank": 2,
+      "televote_rank": 1
+    },
+    "australia": {
+      "jury_ranks": [
+        6,
+        23,
+        15,
+        13,
+        9
+      ],
+      "jury_rank": 14,
+      "televote_rank": 22
+    },
+    "denmark": {
+      "jury_ranks": [
+        23,
+        24,
+        24,
+        18,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 17
+    },
+    "serbia": {
+      "jury_ranks": [
+        25,
+        17,
+        23,
+        24,
+        25
+      ],
+      "jury_rank": 23,
+      "televote_rank": 25
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        4,
+        9,
+        12,
+        6,
+        13
+      ],
+      "jury_rank": 7,
+      "televote_rank": 2
+    },
+    "cyprus": {
+      "jury_ranks": [
+        1,
+        3,
+        1,
+        2,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 3
+    },
+    "ireland": {
+      "jury_ranks": [
+        14,
+        7,
+        4,
+        9,
+        8
+      ],
+      "jury_rank": 6,
+      "televote_rank": 10
+    },
+    "albania": {
+      "jury_ranks": [
+        19,
+        18,
+        7,
+        7,
+        10
+      ],
+      "jury_rank": 12,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        21,
+        25,
+        25,
+        25,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 18
+    },
+    "sweden": {
+      "jury_ranks": [
+        7,
+        8,
+        8,
+        10,
+        12
+      ],
+      "jury_rank": 9,
+      "televote_rank": 11
+    },
+    "lithuania": {
+      "jury_ranks": [
+        16,
+        21,
+        11,
+        15,
+        17
+      ],
+      "jury_rank": 19,
+      "televote_rank": 14
+    },
+    "austria": {
+      "jury_ranks": [
+        5,
+        12,
+        2,
+        5,
+        2
+      ],
+      "jury_rank": 3,
+      "televote_rank": 15
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        18,
+        10,
+        22,
+        20,
+        14
+      ],
+      "jury_rank": 18,
+      "televote_rank": 6
+    },
+    "finland": {
+      "jury_ranks": [
+        12,
+        20,
+        20,
+        21,
+        18
+      ],
+      "jury_rank": 20,
+      "televote_rank": 20
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        4,
+        13,
+        17,
+        22
+      ],
+      "jury_rank": 15,
+      "televote_rank": 13
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        9,
+        16,
+        9,
+        14,
+        15
+      ],
+      "jury_rank": 16,
+      "televote_rank": 21
+    },
+    "italy": {
+      "jury_ranks": [
+        15,
+        15,
+        10,
+        11,
+        3
+      ],
+      "jury_rank": 8,
+      "televote_rank": 4
+    },
+    "france": {
+      "jury_ranks": [
+        11,
+        1,
+        14,
+        8,
+        6
+      ],
+      "jury_rank": 5,
+      "televote_rank": 7
+    },
+    "germany": {
+      "jury_ranks": [
+        10,
+        5,
+        5,
+        3,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 5
+    }
+  },
+  "united-kingdom": {
+    "the-netherlands": {
+      "jury_ranks": [
+        10,
+        20,
+        6,
+        17,
+        20
+      ],
+      "jury_rank": 16,
+      "televote_rank": 13
+    },
+    "moldova": {
+      "jury_ranks": [
+        8,
+        9,
+        18,
+        9,
+        22
+      ],
+      "jury_rank": 14,
+      "televote_rank": 7
+    },
+    "ukraine": {
+      "jury_ranks": [
+        23,
+        19,
+        10,
+        13,
+        14
+      ],
+      "jury_rank": 18,
+      "televote_rank": 23
+    },
+    "norway": {
+      "jury_ranks": [
+        4,
+        21,
+        3,
+        11,
+        7
+      ],
+      "jury_rank": 6,
+      "televote_rank": 15
+    },
+    "slovenia": {
+      "jury_ranks": [
+        12,
+        18,
+        21,
+        5,
+        11
+      ],
+      "jury_rank": 13,
+      "televote_rank": 24
+    },
+    "estonia": {
+      "jury_ranks": [
+        15,
+        3,
+        7,
+        16,
+        2
+      ],
+      "jury_rank": 5,
+      "televote_rank": 11
+    },
+    "israel": {
+      "jury_ranks": [
+        5,
+        4,
+        5,
+        1,
+        4
+      ],
+      "jury_rank": 2,
+      "televote_rank": 4
+    },
+    "australia": {
+      "jury_ranks": [
+        13,
+        11,
+        16,
+        22,
+        23
+      ],
+      "jury_rank": 21,
+      "televote_rank": 10
+    },
+    "denmark": {
+      "jury_ranks": [
+        20,
+        24,
+        22,
+        12,
+        24
+      ],
+      "jury_rank": 24,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        24,
+        22,
+        24,
+        14,
+        9
+      ],
+      "jury_rank": 20,
+      "televote_rank": 25
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        6,
+        23,
+        8,
+        10,
+        16
+      ],
+      "jury_rank": 11,
+      "televote_rank": 6
+    },
+    "cyprus": {
+      "jury_ranks": [
+        7,
+        14,
+        15,
+        7,
+        21
+      ],
+      "jury_rank": 12,
+      "televote_rank": 3
+    },
+    "ireland": {
+      "jury_ranks": [
+        18,
+        10,
+        9,
+        2,
+        18
+      ],
+      "jury_rank": 8,
+      "televote_rank": 2
+    },
+    "albania": {
+      "jury_ranks": [
+        3,
+        5,
+        4,
+        3,
+        8
+      ],
+      "jury_rank": 4,
+      "televote_rank": 16
+    },
+    "hungary": {
+      "jury_ranks": [
+        9,
+        6,
+        14,
+        18,
+        25
+      ],
+      "jury_rank": 15,
+      "televote_rank": 12
+    },
+    "sweden": {
+      "jury_ranks": [
+        2,
+        16,
+        20,
+        20,
+        19
+      ],
+      "jury_rank": 9,
+      "televote_rank": 20
+    },
+    "lithuania": {
+      "jury_ranks": [
+        16,
+        8,
+        12,
+        23,
+        12
+      ],
+      "jury_rank": 17,
+      "televote_rank": 1
+    },
+    "austria": {
+      "jury_ranks": [
+        1,
+        2,
+        1,
+        8,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 19
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        14,
+        1,
+        2,
+        4,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 5
+    },
+    "finland": {
+      "jury_ranks": [
+        11,
+        7,
+        13,
+        6,
+        6
+      ],
+      "jury_rank": 7,
+      "televote_rank": 14
+    },
+    "portugal": {
+      "jury_ranks": [
+        21,
+        15,
+        19,
+        19,
+        13
+      ],
+      "jury_rank": 23,
+      "televote_rank": 18
+    },
+    "spain": {
+      "jury_ranks": [
+        17,
+        17,
+        11,
+        24,
+        3
+      ],
+      "jury_rank": 10,
+      "televote_rank": 22
+    },
+    "italy": {
+      "jury_ranks": [
+        25,
+        25,
+        25,
+        25,
+        17
+      ],
+      "jury_rank": 25,
+      "televote_rank": 17
+    },
+    "france": {
+      "jury_ranks": [
+        19,
+        13,
+        17,
+        15,
+        15
+      ],
+      "jury_rank": 22,
+      "televote_rank": 21
+    },
+    "germany": {
+      "jury_ranks": [
+        22,
+        12,
+        23,
+        21,
+        10
+      ],
+      "jury_rank": 19,
+      "televote_rank": 8
+    }
+  },
+  "denmark": {
+    "the-netherlands": {
+      "jury_ranks": [
+        19,
+        19,
+        12,
+        13,
+        11
+      ],
+      "jury_rank": 17,
+      "televote_rank": 6
+    },
+    "moldova": {
+      "jury_ranks": [
+        21,
+        22,
+        22,
+        18,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 14
+    },
+    "ukraine": {
+      "jury_ranks": [
+        11,
+        12,
+        25,
+        23,
+        19
+      ],
+      "jury_rank": 19,
+      "televote_rank": 18
+    },
+    "norway": {
+      "jury_ranks": [
+        24,
+        21,
+        9,
+        17,
+        15
+      ],
+      "jury_rank": 18,
+      "televote_rank": 3
+    },
+    "slovenia": {
+      "jury_ranks": [
+        9,
+        8,
+        23,
+        22,
+        25
+      ],
+      "jury_rank": 16,
+      "televote_rank": 21
+    },
+    "estonia": {
+      "jury_ranks": [
+        10,
+        1,
+        17,
+        7,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 12
+    },
+    "israel": {
+      "jury_ranks": [
+        13,
+        2,
+        4,
+        16,
+        13
+      ],
+      "jury_rank": 8,
+      "televote_rank": 11
+    },
+    "australia": {
+      "jury_ranks": [
+        1,
+        3,
+        3,
+        10,
+        1
+      ],
+      "jury_rank": 2,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        23,
+        11,
+        19,
+        8,
+        6
+      ],
+      "jury_rank": 12,
+      "televote_rank": 23
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        7,
+        24,
+        11,
+        11,
+        16
+      ],
+      "jury_rank": 13,
+      "televote_rank": 5
+    },
+    "cyprus": {
+      "jury_ranks": [
+        2,
+        5,
+        7,
+        12,
+        7
+      ],
+      "jury_rank": 6,
+      "televote_rank": 10
+    },
+    "ireland": {
+      "jury_ranks": [
+        14,
+        16,
+        14,
+        4,
+        8
+      ],
+      "jury_rank": 11,
+      "televote_rank": 7
+    },
+    "albania": {
+      "jury_ranks": [
+        22,
+        23,
+        15,
+        25,
+        20
+      ],
+      "jury_rank": 24,
+      "televote_rank": 24
+    },
+    "hungary": {
+      "jury_ranks": [
+        25,
+        14,
+        20,
+        24,
+        12
+      ],
+      "jury_rank": 22,
+      "televote_rank": 19
+    },
+    "sweden": {
+      "jury_ranks": [
+        5,
+        10,
+        8,
+        2,
+        10
+      ],
+      "jury_rank": 7,
+      "televote_rank": 4
+    },
+    "lithuania": {
+      "jury_ranks": [
+        8,
+        20,
+        10,
+        15,
+        23
+      ],
+      "jury_rank": 15,
+      "televote_rank": 16
+    },
+    "austria": {
+      "jury_ranks": [
+        6,
+        9,
+        2,
+        3,
+        9
+      ],
+      "jury_rank": 3,
+      "televote_rank": 2
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        18,
+        17,
+        18,
+        9,
+        2
+      ],
+      "jury_rank": 10,
+      "televote_rank": 22
+    },
+    "finland": {
+      "jury_ranks": [
+        12,
+        25,
+        13,
+        19,
+        17
+      ],
+      "jury_rank": 20,
+      "televote_rank": 15
+    },
+    "portugal": {
+      "jury_ranks": [
+        20,
+        13,
+        16,
+        20,
+        22
+      ],
+      "jury_rank": 23,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        15,
+        15,
+        6,
+        21,
+        18
+      ],
+      "jury_rank": 14,
+      "televote_rank": 8
+    },
+    "spain": {
+      "jury_ranks": [
+        4,
+        4,
+        21,
+        5,
+        5
+      ],
+      "jury_rank": 5,
+      "televote_rank": 20
+    },
+    "italy": {
+      "jury_ranks": [
+        16,
+        18,
+        24,
+        14,
+        14
+      ],
+      "jury_rank": 21,
+      "televote_rank": 17
+    },
+    "france": {
+      "jury_ranks": [
+        17,
+        6,
+        5,
+        6,
+        24
+      ],
+      "jury_rank": 9,
+      "televote_rank": 13
+    },
+    "germany": {
+      "jury_ranks": [
+        3,
+        7,
+        1,
+        1,
+        3
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    }
+  },
+  "germany": {
+    "the-netherlands": {
+      "jury_ranks": [
+        10,
+        6,
+        5,
+        14,
+        10
+      ],
+      "jury_rank": 6,
+      "televote_rank": 11
+    },
+    "moldova": {
+      "jury_ranks": [
+        21,
+        22,
+        11,
+        22,
+        14
+      ],
+      "jury_rank": 19,
+      "televote_rank": 15
+    },
+    "ukraine": {
+      "jury_ranks": [
+        8,
+        9,
+        12,
+        7,
+        19
+      ],
+      "jury_rank": 11,
+      "televote_rank": 20
+    },
+    "norway": {
+      "jury_ranks": [
+        9,
+        23,
+        17,
+        25,
+        16
+      ],
+      "jury_rank": 18,
+      "televote_rank": 14
+    },
+    "slovenia": {
+      "jury_ranks": [
+        11,
+        11,
+        13,
+        17,
+        21
+      ],
+      "jury_rank": 14,
+      "televote_rank": 24
+    },
+    "estonia": {
+      "jury_ranks": [
+        19,
+        8,
+        20,
+        9,
+        3
+      ],
+      "jury_rank": 9,
+      "televote_rank": 19
+    },
+    "israel": {
+      "jury_ranks": [
+        5,
+        16,
+        8,
+        11,
+        11
+      ],
+      "jury_rank": 10,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        2,
+        5,
+        4,
+        4,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 17
+    },
+    "denmark": {
+      "jury_ranks": [
+        13,
+        21,
+        23,
+        20,
+        22
+      ],
+      "jury_rank": 22,
+      "televote_rank": 8
+    },
+    "serbia": {
+      "jury_ranks": [
+        22,
+        17,
+        24,
+        15,
+        17
+      ],
+      "jury_rank": 21,
+      "televote_rank": 13
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        14,
+        20,
+        9,
+        23,
+        12
+      ],
+      "jury_rank": 15,
+      "televote_rank": 3
+    },
+    "cyprus": {
+      "jury_ranks": [
+        6,
+        10,
+        10,
+        5,
+        23
+      ],
+      "jury_rank": 8,
+      "televote_rank": 5
+    },
+    "ireland": {
+      "jury_ranks": [
+        3,
+        2,
+        3,
+        2,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 4
+    },
+    "albania": {
+      "jury_ranks": [
+        25,
+        14,
+        18,
+        8,
+        15
+      ],
+      "jury_rank": 16,
+      "televote_rank": 12
+    },
+    "hungary": {
+      "jury_ranks": [
+        23,
+        19,
+        21,
+        21,
+        18
+      ],
+      "jury_rank": 23,
+      "televote_rank": 9
+    },
+    "sweden": {
+      "jury_ranks": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 21
+    },
+    "lithuania": {
+      "jury_ranks": [
+        16,
+        7,
+        7,
+        10,
+        6
+      ],
+      "jury_rank": 7,
+      "televote_rank": 7
+    },
+    "austria": {
+      "jury_ranks": [
+        4,
+        3,
+        2,
+        3,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 6
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        20,
+        24,
+        22,
+        19,
+        24
+      ],
+      "jury_rank": 24,
+      "televote_rank": 22
+    },
+    "finland": {
+      "jury_ranks": [
+        18,
+        25,
+        25,
+        24,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 23
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        18,
+        14,
+        13,
+        8
+      ],
+      "jury_rank": 13,
+      "televote_rank": 18
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        15,
+        13,
+        19,
+        18,
+        20
+      ],
+      "jury_rank": 20,
+      "televote_rank": 10
+    },
+    "spain": {
+      "jury_ranks": [
+        7,
+        4,
+        6,
+        6,
+        7
+      ],
+      "jury_rank": 5,
+      "televote_rank": 25
+    },
+    "italy": {
+      "jury_ranks": [
+        17,
+        15,
+        16,
+        16,
+        9
+      ],
+      "jury_rank": 17,
+      "televote_rank": 1
+    },
+    "france": {
+      "jury_ranks": [
+        12,
+        12,
+        15,
+        12,
+        13
+      ],
+      "jury_rank": 12,
+      "televote_rank": 16
+    }
+  },
+  "austria": {
+    "the-netherlands": {
+      "jury_ranks": [
+        1,
+        23,
+        11,
+        16,
+        21
+      ],
+      "jury_rank": 10,
+      "televote_rank": 11
+    },
+    "moldova": {
+      "jury_ranks": [
+        25,
+        20,
+        23,
+        24,
+        15
+      ],
+      "jury_rank": 23,
+      "televote_rank": 12
+    },
+    "ukraine": {
+      "jury_ranks": [
+        22,
+        22,
+        22,
+        13,
+        22
+      ],
+      "jury_rank": 22,
+      "televote_rank": 22
+    },
+    "norway": {
+      "jury_ranks": [
+        15,
+        12,
+        15,
+        17,
+        16
+      ],
+      "jury_rank": 17,
+      "televote_rank": 17
+    },
+    "slovenia": {
+      "jury_ranks": [
+        14,
+        3,
+        3,
+        12,
+        9
+      ],
+      "jury_rank": 6,
+      "televote_rank": 20
+    },
+    "estonia": {
+      "jury_ranks": [
+        5,
+        9,
+        7,
+        9,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 16
+    },
+    "israel": {
+      "jury_ranks": [
+        4,
+        1,
+        1,
+        3,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 4
+    },
+    "australia": {
+      "jury_ranks": [
+        9,
+        14,
+        16,
+        19,
+        6
+      ],
+      "jury_rank": 14,
+      "televote_rank": 14
+    },
+    "denmark": {
+      "jury_ranks": [
+        21,
+        24,
+        24,
+        20,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 6
+    },
+    "serbia": {
+      "jury_ranks": [
+        17,
+        25,
+        25,
+        25,
+        25
+      ],
+      "jury_rank": 24,
+      "televote_rank": 3
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        7,
+        13,
+        9,
+        4,
+        8
+      ],
+      "jury_rank": 8,
+      "televote_rank": 1
+    },
+    "cyprus": {
+      "jury_ranks": [
+        19,
+        8,
+        18,
+        2,
+        23
+      ],
+      "jury_rank": 12,
+      "televote_rank": 10
+    },
+    "ireland": {
+      "jury_ranks": [
+        10,
+        5,
+        10,
+        6,
+        5
+      ],
+      "jury_rank": 7,
+      "televote_rank": 7
+    },
+    "albania": {
+      "jury_ranks": [
+        3,
+        6,
+        5,
+        8,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 9
+    },
+    "hungary": {
+      "jury_ranks": [
+        20,
+        21,
+        12,
+        23,
+        14
+      ],
+      "jury_rank": 19,
+      "televote_rank": 8
+    },
+    "sweden": {
+      "jury_ranks": [
+        2,
+        2,
+        8,
+        5,
+        12
+      ],
+      "jury_rank": 3,
+      "televote_rank": 18
+    },
+    "lithuania": {
+      "jury_ranks": [
+        23,
+        11,
+        14,
+        21,
+        13
+      ],
+      "jury_rank": 16,
+      "televote_rank": 15
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        13,
+        10,
+        2,
+        10,
+        3
+      ],
+      "jury_rank": 5,
+      "televote_rank": 13
+    },
+    "finland": {
+      "jury_ranks": [
+        24,
+        19,
+        13,
+        22,
+        20
+      ],
+      "jury_rank": 21,
+      "televote_rank": 24
+    },
+    "portugal": {
+      "jury_ranks": [
+        16,
+        4,
+        6,
+        14,
+        11
+      ],
+      "jury_rank": 11,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        18,
+        15,
+        19,
+        18,
+        19
+      ],
+      "jury_rank": 20,
+      "televote_rank": 19
+    },
+    "spain": {
+      "jury_ranks": [
+        12,
+        16,
+        20,
+        7,
+        17
+      ],
+      "jury_rank": 15,
+      "televote_rank": 23
+    },
+    "italy": {
+      "jury_ranks": [
+        8,
+        17,
+        17,
+        11,
+        7
+      ],
+      "jury_rank": 13,
+      "televote_rank": 2
+    },
+    "france": {
+      "jury_ranks": [
+        11,
+        18,
+        21,
+        15,
+        18
+      ],
+      "jury_rank": 18,
+      "televote_rank": 21
+    },
+    "germany": {
+      "jury_ranks": [
+        6,
+        7,
+        4,
+        1,
+        1
+      ],
+      "jury_rank": 2,
+      "televote_rank": 5
+    }
+  },
+  "switzerland": {
+    "the-netherlands": {
+      "jury_ranks": [
+        11,
+        17,
+        23,
+        18,
+        11
+      ],
+      "jury_rank": 19,
+      "televote_rank": 15
+    },
+    "moldova": {
+      "jury_ranks": [
+        19,
+        25,
+        22,
+        22,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 19
+    },
+    "ukraine": {
+      "jury_ranks": [
+        25,
+        20,
+        24,
+        24,
+        26
+      ],
+      "jury_rank": 26,
+      "televote_rank": 25
+    },
+    "norway": {
+      "jury_ranks": [
+        20,
+        11,
+        19,
+        5,
+        16
+      ],
+      "jury_rank": 14,
+      "televote_rank": 22
+    },
+    "slovenia": {
+      "jury_ranks": [
+        22,
+        22,
+        11,
+        21,
+        4
+      ],
+      "jury_rank": 12,
+      "televote_rank": 26
+    },
+    "estonia": {
+      "jury_ranks": [
+        1,
+        12,
+        4,
+        2,
+        3
+      ],
+      "jury_rank": 2,
+      "televote_rank": 18
+    },
+    "israel": {
+      "jury_ranks": [
+        13,
+        2,
+        7,
+        17,
+        23
+      ],
+      "jury_rank": 10,
+      "televote_rank": 6
+    },
+    "australia": {
+      "jury_ranks": [
+        8,
+        21,
+        25,
+        12,
+        22
+      ],
+      "jury_rank": 18,
+      "televote_rank": 17
+    },
+    "denmark": {
+      "jury_ranks": [
+        17,
+        26,
+        12,
+        26,
+        18
+      ],
+      "jury_rank": 22,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        23,
+        19,
+        26,
+        13,
+        25
+      ],
+      "jury_rank": 23,
+      "televote_rank": 1
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        26,
+        10,
+        6,
+        10,
+        19
+      ],
+      "jury_rank": 11,
+      "televote_rank": 13
+    },
+    "cyprus": {
+      "jury_ranks": [
+        6,
+        5,
+        1,
+        20,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 8
+    },
+    "ireland": {
+      "jury_ranks": [
+        7,
+        4,
+        10,
+        8,
+        2
+      ],
+      "jury_rank": 5,
+      "televote_rank": 12
+    },
+    "albania": {
+      "jury_ranks": [
+        16,
+        18,
+        17,
+        15,
+        21
+      ],
+      "jury_rank": 21,
+      "televote_rank": 4
+    },
+    "hungary": {
+      "jury_ranks": [
+        24,
+        24,
+        20,
+        23,
+        15
+      ],
+      "jury_rank": 24,
+      "televote_rank": 14
+    },
+    "sweden": {
+      "jury_ranks": [
+        4,
+        9,
+        16,
+        19,
+        1
+      ],
+      "jury_rank": 6,
+      "televote_rank": 23
+    },
+    "lithuania": {
+      "jury_ranks": [
+        3,
+        7,
+        2,
+        4,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 20
+    },
+    "austria": {
+      "jury_ranks": [
+        5,
+        6,
+        9,
+        3,
+        14
+      ],
+      "jury_rank": 7,
+      "televote_rank": 7
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        14,
+        14,
+        3,
+        7,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 24
+    },
+    "finland": {
+      "jury_ranks": [
+        10,
+        23,
+        5,
+        16,
+        20
+      ],
+      "jury_rank": 13,
+      "televote_rank": 21
+    },
+    "portugal": {
+      "jury_ranks": [
+        9,
+        3,
+        8,
+        25,
+        9
+      ],
+      "jury_rank": 8,
+      "televote_rank": 2
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        18,
+        13,
+        21,
+        6,
+        12
+      ],
+      "jury_rank": 16,
+      "televote_rank": 16
+    },
+    "spain": {
+      "jury_ranks": [
+        15,
+        16,
+        14,
+        14,
+        13
+      ],
+      "jury_rank": 20,
+      "televote_rank": 10
+    },
+    "italy": {
+      "jury_ranks": [
+        12,
+        15,
+        18,
+        9,
+        8
+      ],
+      "jury_rank": 15,
+      "televote_rank": 3
+    },
+    "france": {
+      "jury_ranks": [
+        21,
+        8,
+        13,
+        11,
+        17
+      ],
+      "jury_rank": 17,
+      "televote_rank": 11
+    },
+    "germany": {
+      "jury_ranks": [
+        2,
+        1,
+        15,
+        1,
+        7
+      ],
+      "jury_rank": 1,
+      "televote_rank": 5
+    }
+  },
+  "belgium": {
+    "the-netherlands": {
+      "jury_ranks": [
+        3,
+        2,
+        2,
+        3,
+        15
+      ],
+      "jury_rank": 2,
+      "televote_rank": 1
+    },
+    "moldova": {
+      "jury_ranks": [
+        26,
+        25,
+        24,
+        17,
+        14
+      ],
+      "jury_rank": 22,
+      "televote_rank": 15
+    },
+    "ukraine": {
+      "jury_ranks": [
+        20,
+        23,
+        18,
+        19,
+        22
+      ],
+      "jury_rank": 24,
+      "televote_rank": 24
+    },
+    "norway": {
+      "jury_ranks": [
+        14,
+        13,
+        14,
+        13,
+        8
+      ],
+      "jury_rank": 13,
+      "televote_rank": 14
+    },
+    "slovenia": {
+      "jury_ranks": [
+        25,
+        21,
+        19,
+        18,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        13,
+        18,
+        6,
+        12,
+        7
+      ],
+      "jury_rank": 12,
+      "televote_rank": 12
+    },
+    "israel": {
+      "jury_ranks": [
+        5,
+        8,
+        11,
+        5,
+        5
+      ],
+      "jury_rank": 5,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        16,
+        20,
+        15,
+        26,
+        25
+      ],
+      "jury_rank": 21,
+      "televote_rank": 21
+    },
+    "denmark": {
+      "jury_ranks": [
+        12,
+        9,
+        21,
+        22,
+        26
+      ],
+      "jury_rank": 15,
+      "televote_rank": 6
+    },
+    "serbia": {
+      "jury_ranks": [
+        22,
+        22,
+        25,
+        25,
+        23
+      ],
+      "jury_rank": 26,
+      "televote_rank": 26
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        4,
+        5,
+        7,
+        6,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 10
+    },
+    "cyprus": {
+      "jury_ranks": [
+        2,
+        6,
+        10,
+        9,
+        20
+      ],
+      "jury_rank": 7,
+      "televote_rank": 4
+    },
+    "ireland": {
+      "jury_ranks": [
+        8,
+        11,
+        12,
+        4,
+        9
+      ],
+      "jury_rank": 11,
+      "televote_rank": 7
+    },
+    "albania": {
+      "jury_ranks": [
+        11,
+        3,
+        13,
+        10,
+        6
+      ],
+      "jury_rank": 9,
+      "televote_rank": 13
+    },
+    "hungary": {
+      "jury_ranks": [
+        21,
+        26,
+        16,
+        11,
+        24
+      ],
+      "jury_rank": 19,
+      "televote_rank": 20
+    },
+    "sweden": {
+      "jury_ranks": [
+        7,
+        7,
+        8,
+        2,
+        2
+      ],
+      "jury_rank": 3,
+      "televote_rank": 22
+    },
+    "lithuania": {
+      "jury_ranks": [
+        10,
+        14,
+        9,
+        23,
+        17
+      ],
+      "jury_rank": 14,
+      "televote_rank": 11
+    },
+    "austria": {
+      "jury_ranks": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 8
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        17,
+        12,
+        22,
+        21,
+        18
+      ],
+      "jury_rank": 18,
+      "televote_rank": 16
+    },
+    "finland": {
+      "jury_ranks": [
+        15,
+        24,
+        17,
+        16,
+        19
+      ],
+      "jury_rank": 20,
+      "televote_rank": 23
+    },
+    "portugal": {
+      "jury_ranks": [
+        18,
+        15,
+        26,
+        20,
+        11
+      ],
+      "jury_rank": 17,
+      "televote_rank": 17
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        19,
+        19,
+        20,
+        14,
+        12
+      ],
+      "jury_rank": 16,
+      "televote_rank": 18
+    },
+    "spain": {
+      "jury_ranks": [
+        9,
+        10,
+        4,
+        8,
+        10
+      ],
+      "jury_rank": 10,
+      "televote_rank": 19
+    },
+    "italy": {
+      "jury_ranks": [
+        24,
+        17,
+        23,
+        24,
+        16
+      ],
+      "jury_rank": 23,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        23,
+        16,
+        5,
+        7,
+        3
+      ],
+      "jury_rank": 8,
+      "televote_rank": 3
+    },
+    "germany": {
+      "jury_ranks": [
+        6,
+        4,
+        3,
+        15,
+        13
+      ],
+      "jury_rank": 6,
+      "televote_rank": 9
+    }
+  },
+  "cyprus": {
+    "the-netherlands": {
+      "jury_ranks": [
+        19,
+        25,
+        19,
+        11,
+        2
+      ],
+      "jury_rank": 13,
+      "televote_rank": 16
+    },
+    "moldova": {
+      "jury_ranks": [
+        3,
+        3,
+        4,
+        3,
+        3
+      ],
+      "jury_rank": 2,
+      "televote_rank": 13
+    },
+    "ukraine": {
+      "jury_ranks": [
+        17,
+        22,
+        18,
+        22,
+        17
+      ],
+      "jury_rank": 19,
+      "televote_rank": 9
+    },
+    "norway": {
+      "jury_ranks": [
+        16,
+        5,
+        17,
+        14,
+        21
+      ],
+      "jury_rank": 15,
+      "televote_rank": 6
+    },
+    "slovenia": {
+      "jury_ranks": [
+        21,
+        21,
+        20,
+        24,
+        24
+      ],
+      "jury_rank": 24,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        11,
+        12,
+        13,
+        4,
+        9
+      ],
+      "jury_rank": 10,
+      "televote_rank": 7
+    },
+    "israel": {
+      "jury_ranks": [
+        9,
+        7,
+        10,
+        8,
+        12
+      ],
+      "jury_rank": 12,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        18,
+        4,
+        16,
+        20,
+        14
+      ],
+      "jury_rank": 14,
+      "televote_rank": 23
+    },
+    "denmark": {
+      "jury_ranks": [
+        25,
+        24,
+        23,
+        25,
+        22
+      ],
+      "jury_rank": 25,
+      "televote_rank": 19
+    },
+    "serbia": {
+      "jury_ranks": [
+        22,
+        17,
+        25,
+        23,
+        25
+      ],
+      "jury_rank": 23,
+      "televote_rank": 12
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        4,
+        9,
+        8,
+        6,
+        8
+      ],
+      "jury_rank": 6,
+      "televote_rank": 3
+    },
+    "ireland": {
+      "jury_ranks": [
+        10,
+        20,
+        2,
+        15,
+        19
+      ],
+      "jury_rank": 11,
+      "televote_rank": 14
+    },
+    "albania": {
+      "jury_ranks": [
+        5,
+        6,
+        5,
+        5,
+        5
+      ],
+      "jury_rank": 5,
+      "televote_rank": 17
+    },
+    "hungary": {
+      "jury_ranks": [
+        14,
+        2,
+        6,
+        17,
+        23
+      ],
+      "jury_rank": 7,
+      "televote_rank": 20
+    },
+    "sweden": {
+      "jury_ranks": [
+        1,
+        1,
+        1,
+        9,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 18
+    },
+    "lithuania": {
+      "jury_ranks": [
+        15,
+        14,
+        12,
+        10,
+        10
+      ],
+      "jury_rank": 16,
+      "televote_rank": 5
+    },
+    "austria": {
+      "jury_ranks": [
+        8,
+        10,
+        7,
+        7,
+        11
+      ],
+      "jury_rank": 9,
+      "televote_rank": 11
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        12,
+        18,
+        15,
+        13,
+        15
+      ],
+      "jury_rank": 18,
+      "televote_rank": 1
+    },
+    "finland": {
+      "jury_ranks": [
+        13,
+        15,
+        14,
+        16,
+        13
+      ],
+      "jury_rank": 17,
+      "televote_rank": 22
+    },
+    "portugal": {
+      "jury_ranks": [
+        23,
+        23,
+        21,
+        18,
+        16
+      ],
+      "jury_rank": 20,
+      "televote_rank": 24
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        24,
+        16,
+        24,
+        21,
+        18
+      ],
+      "jury_rank": 21,
+      "televote_rank": 15
+    },
+    "spain": {
+      "jury_ranks": [
+        2,
+        8,
+        9,
+        2,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 21
+    },
+    "italy": {
+      "jury_ranks": [
+        6,
+        11,
+        3,
+        1,
+        7
+      ],
+      "jury_rank": 3,
+      "televote_rank": 4
+    },
+    "france": {
+      "jury_ranks": [
+        7,
+        13,
+        11,
+        12,
+        4
+      ],
+      "jury_rank": 8,
+      "televote_rank": 10
+    },
+    "germany": {
+      "jury_ranks": [
+        20,
+        19,
+        22,
+        19,
+        20
+      ],
+      "jury_rank": 22,
+      "televote_rank": 8
+    }
+  },
+  "the-netherlands": {
+    "moldova": {
+      "jury_ranks": [
+        10,
+        17,
+        25,
+        21,
+        20
+      ],
+      "jury_rank": 20,
+      "televote_rank": 12
+    },
+    "ukraine": {
+      "jury_ranks": [
+        17,
+        13,
+        9,
+        7,
+        17
+      ],
+      "jury_rank": 14,
+      "televote_rank": 23
+    },
+    "norway": {
+      "jury_ranks": [
+        12,
+        7,
+        17,
+        9,
+        4
+      ],
+      "jury_rank": 8,
+      "televote_rank": 10
+    },
+    "slovenia": {
+      "jury_ranks": [
+        8,
+        6,
+        8,
+        14,
+        16
+      ],
+      "jury_rank": 10,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        7,
+        4,
+        10,
+        6,
+        12
+      ],
+      "jury_rank": 7,
+      "televote_rank": 11
+    },
+    "israel": {
+      "jury_ranks": [
+        5,
+        9,
+        16,
+        1,
+        18
+      ],
+      "jury_rank": 6,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        11,
+        15,
+        12,
+        12,
+        7
+      ],
+      "jury_rank": 13,
+      "televote_rank": 15
+    },
+    "denmark": {
+      "jury_ranks": [
+        25,
+        23,
+        23,
+        18,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 3
+    },
+    "serbia": {
+      "jury_ranks": [
+        21,
+        22,
+        19,
+        16,
+        21
+      ],
+      "jury_rank": 24,
+      "televote_rank": 17
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        19,
+        16,
+        22,
+        10,
+        13
+      ],
+      "jury_rank": 17,
+      "televote_rank": 5
+    },
+    "cyprus": {
+      "jury_ranks": [
+        1,
+        2,
+        18,
+        5,
+        10
+      ],
+      "jury_rank": 5,
+      "televote_rank": 6
+    },
+    "ireland": {
+      "jury_ranks": [
+        20,
+        14,
+        24,
+        8,
+        8
+      ],
+      "jury_rank": 15,
+      "televote_rank": 7
+    },
+    "albania": {
+      "jury_ranks": [
+        14,
+        19,
+        11,
+        13,
+        14
+      ],
+      "jury_rank": 16,
+      "televote_rank": 20
+    },
+    "hungary": {
+      "jury_ranks": [
+        24,
+        20,
+        15,
+        19,
+        24
+      ],
+      "jury_rank": 23,
+      "televote_rank": 9
+    },
+    "sweden": {
+      "jury_ranks": [
+        2,
+        5,
+        13,
+        2,
+        3
+      ],
+      "jury_rank": 3,
+      "televote_rank": 13
+    },
+    "lithuania": {
+      "jury_ranks": [
+        6,
+        1,
+        2,
+        11,
+        5
+      ],
+      "jury_rank": 4,
+      "televote_rank": 19
+    },
+    "austria": {
+      "jury_ranks": [
+        3,
+        8,
+        4,
+        3,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 8
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        9,
+        12,
+        5,
+        15,
+        19
+      ],
+      "jury_rank": 12,
+      "televote_rank": 18
+    },
+    "finland": {
+      "jury_ranks": [
+        22,
+        21,
+        14,
+        20,
+        23
+      ],
+      "jury_rank": 22,
+      "televote_rank": 24
+    },
+    "portugal": {
+      "jury_ranks": [
+        16,
+        10,
+        3,
+        23,
+        11
+      ],
+      "jury_rank": 9,
+      "televote_rank": 21
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        15,
+        24,
+        20,
+        17,
+        9
+      ],
+      "jury_rank": 18,
+      "televote_rank": 16
+    },
+    "spain": {
+      "jury_ranks": [
+        18,
+        11,
+        6,
+        24,
+        6
+      ],
+      "jury_rank": 11,
+      "televote_rank": 22
+    },
+    "italy": {
+      "jury_ranks": [
+        23,
+        25,
+        7,
+        25,
+        22
+      ],
+      "jury_rank": 19,
+      "televote_rank": 4
+    },
+    "france": {
+      "jury_ranks": [
+        13,
+        18,
+        21,
+        22,
+        15
+      ],
+      "jury_rank": 21,
+      "televote_rank": 14
+    },
+    "germany": {
+      "jury_ranks": [
+        4,
+        3,
+        1,
+        4,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    }
+  },
+  "sweden": {
+    "the-netherlands": {
+      "jury_ranks": [
+        20,
+        9,
+        17,
+        14,
+        6
+      ],
+      "jury_rank": 13,
+      "televote_rank": 10
+    },
+    "moldova": {
+      "jury_ranks": [
+        22,
+        16,
+        18,
+        23,
+        9
+      ],
+      "jury_rank": 18,
+      "televote_rank": 20
+    },
+    "ukraine": {
+      "jury_ranks": [
+        11,
+        14,
+        12,
+        17,
+        8
+      ],
+      "jury_rank": 15,
+      "televote_rank": 21
+    },
+    "norway": {
+      "jury_ranks": [
+        13,
+        18,
+        11,
+        8,
+        4
+      ],
+      "jury_rank": 9,
+      "televote_rank": 3
+    },
+    "slovenia": {
+      "jury_ranks": [
+        14,
+        22,
+        14,
+        19,
+        21
+      ],
+      "jury_rank": 21,
+      "televote_rank": 23
+    },
+    "estonia": {
+      "jury_ranks": [
+        10,
+        8,
+        8,
+        12,
+        12
+      ],
+      "jury_rank": 11,
+      "televote_rank": 15
+    },
+    "israel": {
+      "jury_ranks": [
+        3,
+        10,
+        9,
+        3,
+        5
+      ],
+      "jury_rank": 4,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        8,
+        1,
+        3,
+        6,
+        17
+      ],
+      "jury_rank": 3,
+      "televote_rank": 12
+    },
+    "denmark": {
+      "jury_ranks": [
+        17,
+        11,
+        16,
+        5,
+        16
+      ],
+      "jury_rank": 12,
+      "televote_rank": 1
+    },
+    "serbia": {
+      "jury_ranks": [
+        24,
+        25,
+        24,
+        24,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 17
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        15,
+        23,
+        21,
+        11,
+        7
+      ],
+      "jury_rank": 16,
+      "televote_rank": 8
+    },
+    "cyprus": {
+      "jury_ranks": [
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 7
+    },
+    "ireland": {
+      "jury_ranks": [
+        2,
+        12,
+        5,
+        7,
+        22
+      ],
+      "jury_rank": 7,
+      "televote_rank": 16
+    },
+    "albania": {
+      "jury_ranks": [
+        25,
+        15,
+        13,
+        20,
+        23
+      ],
+      "jury_rank": 22,
+      "televote_rank": 13
+    },
+    "hungary": {
+      "jury_ranks": [
+        23,
+        19,
+        7,
+        21,
+        15
+      ],
+      "jury_rank": 17,
+      "televote_rank": 18
+    },
+    "lithuania": {
+      "jury_ranks": [
+        5,
+        20,
+        20,
+        25,
+        11
+      ],
+      "jury_rank": 14,
+      "televote_rank": 4
+    },
+    "austria": {
+      "jury_ranks": [
+        4,
+        6,
+        1,
+        2,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 9
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        7,
+        3,
+        4,
+        4,
+        19
+      ],
+      "jury_rank": 5,
+      "televote_rank": 22
+    },
+    "finland": {
+      "jury_ranks": [
+        9,
+        7,
+        6,
+        9,
+        13
+      ],
+      "jury_rank": 8,
+      "televote_rank": 5
+    },
+    "portugal": {
+      "jury_ranks": [
+        19,
+        21,
+        22,
+        22,
+        20
+      ],
+      "jury_rank": 24,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        21,
+        24,
+        25,
+        18,
+        14
+      ],
+      "jury_rank": 23,
+      "televote_rank": 19
+    },
+    "spain": {
+      "jury_ranks": [
+        16,
+        17,
+        23,
+        13,
+        18
+      ],
+      "jury_rank": 20,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        18,
+        13,
+        15,
+        15,
+        24
+      ],
+      "jury_rank": 19,
+      "televote_rank": 11
+    },
+    "france": {
+      "jury_ranks": [
+        6,
+        4,
+        19,
+        10,
+        3
+      ],
+      "jury_rank": 6,
+      "televote_rank": 14
+    },
+    "germany": {
+      "jury_ranks": [
+        12,
+        5,
+        10,
+        16,
+        10
+      ],
+      "jury_rank": 10,
+      "televote_rank": 6
+    }
+  },
+  "israel": {
+    "the-netherlands": {
+      "jury_ranks": [
+        24,
+        17,
+        21,
+        16,
+        5
+      ],
+      "jury_rank": 19,
+      "televote_rank": 20
+    },
+    "moldova": {
+      "jury_ranks": [
+        3,
+        23,
+        13,
+        25,
+        25
+      ],
+      "jury_rank": 14,
+      "televote_rank": 2
+    },
+    "ukraine": {
+      "jury_ranks": [
+        22,
+        7,
+        12,
+        23,
+        13
+      ],
+      "jury_rank": 20,
+      "televote_rank": 4
+    },
+    "norway": {
+      "jury_ranks": [
+        10,
+        11,
+        6,
+        20,
+        17
+      ],
+      "jury_rank": 16,
+      "televote_rank": 11
+    },
+    "slovenia": {
+      "jury_ranks": [
+        16,
+        1,
+        17,
+        9,
+        9
+      ],
+      "jury_rank": 7,
+      "televote_rank": 18
+    },
+    "estonia": {
+      "jury_ranks": [
+        18,
+        19,
+        3,
+        21,
+        15
+      ],
+      "jury_rank": 13,
+      "televote_rank": 3
+    },
+    "australia": {
+      "jury_ranks": [
+        7,
+        10,
+        5,
+        5,
+        3
+      ],
+      "jury_rank": 4,
+      "televote_rank": 16
+    },
+    "denmark": {
+      "jury_ranks": [
+        5,
+        22,
+        24,
+        6,
+        8
+      ],
+      "jury_rank": 9,
+      "televote_rank": 7
+    },
+    "serbia": {
+      "jury_ranks": [
+        9,
+        18,
+        20,
+        19,
+        4
+      ],
+      "jury_rank": 12,
+      "televote_rank": 23
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        11,
+        12,
+        8,
+        10,
+        14
+      ],
+      "jury_rank": 15,
+      "televote_rank": 1
+    },
+    "cyprus": {
+      "jury_ranks": [
+        17,
+        15,
+        7,
+        15,
+        11
+      ],
+      "jury_rank": 17,
+      "televote_rank": 9
+    },
+    "ireland": {
+      "jury_ranks": [
+        20,
+        8,
+        4,
+        13,
+        24
+      ],
+      "jury_rank": 11,
+      "televote_rank": 14
+    },
+    "albania": {
+      "jury_ranks": [
+        21,
+        16,
+        11,
+        18,
+        19
+      ],
+      "jury_rank": 24,
+      "televote_rank": 22
+    },
+    "hungary": {
+      "jury_ranks": [
+        2,
+        24,
+        25,
+        4,
+        22
+      ],
+      "jury_rank": 8,
+      "televote_rank": 15
+    },
+    "sweden": {
+      "jury_ranks": [
+        1,
+        6,
+        15,
+        1,
+        23
+      ],
+      "jury_rank": 2,
+      "televote_rank": 24
+    },
+    "lithuania": {
+      "jury_ranks": [
+        15,
+        20,
+        9,
+        22,
+        12
+      ],
+      "jury_rank": 22,
+      "televote_rank": 21
+    },
+    "austria": {
+      "jury_ranks": [
+        25,
+        2,
+        2,
+        2,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 10
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        12,
+        4,
+        14,
+        8,
+        20
+      ],
+      "jury_rank": 10,
+      "televote_rank": 17
+    },
+    "finland": {
+      "jury_ranks": [
+        4,
+        5,
+        10,
+        3,
+        10
+      ],
+      "jury_rank": 5,
+      "televote_rank": 12
+    },
+    "portugal": {
+      "jury_ranks": [
+        19,
+        9,
+        23,
+        7,
+        18
+      ],
+      "jury_rank": 18,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        8,
+        3,
+        16,
+        11,
+        1
+      ],
+      "jury_rank": 3,
+      "televote_rank": 13
+    },
+    "spain": {
+      "jury_ranks": [
+        14,
+        21,
+        18,
+        24,
+        16
+      ],
+      "jury_rank": 25,
+      "televote_rank": 19
+    },
+    "italy": {
+      "jury_ranks": [
+        23,
+        25,
+        22,
+        14,
+        6
+      ],
+      "jury_rank": 21,
+      "televote_rank": 6
+    },
+    "france": {
+      "jury_ranks": [
+        13,
+        13,
+        19,
+        12,
+        21
+      ],
+      "jury_rank": 23,
+      "televote_rank": 5
+    },
+    "germany": {
+      "jury_ranks": [
+        6,
+        14,
+        1,
+        17,
+        7
+      ],
+      "jury_rank": 6,
+      "televote_rank": 8
+    }
+  },
+  "greece": {
+    "the-netherlands": {
+      "jury_ranks": [
+        15,
+        4,
+        13,
+        20,
+        12
+      ],
+      "jury_rank": 12,
+      "televote_rank": 16
+    },
+    "moldova": {
+      "jury_ranks": [
+        4,
+        3,
+        4,
+        2,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 10
+    },
+    "ukraine": {
+      "jury_ranks": [
+        23,
+        17,
+        21,
+        24,
+        21
+      ],
+      "jury_rank": 22,
+      "televote_rank": 15
+    },
+    "norway": {
+      "jury_ranks": [
+        24,
+        12,
+        11,
+        13,
+        10
+      ],
+      "jury_rank": 15,
+      "televote_rank": 8
+    },
+    "slovenia": {
+      "jury_ranks": [
+        26,
+        18,
+        24,
+        23,
+        20
+      ],
+      "jury_rank": 23,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        9,
+        10,
+        12,
+        5,
+        3
+      ],
+      "jury_rank": 8,
+      "televote_rank": 7
+    },
+    "israel": {
+      "jury_ranks": [
+        2,
+        7,
+        8,
+        11,
+        8
+      ],
+      "jury_rank": 7,
+      "televote_rank": 5
+    },
+    "australia": {
+      "jury_ranks": [
+        12,
+        23,
+        19,
+        4,
+        14
+      ],
+      "jury_rank": 14,
+      "televote_rank": 21
+    },
+    "denmark": {
+      "jury_ranks": [
+        14,
+        26,
+        25,
+        26,
+        26
+      ],
+      "jury_rank": 21,
+      "televote_rank": 14
+    },
+    "serbia": {
+      "jury_ranks": [
+        6,
+        6,
+        7,
+        9,
+        7
+      ],
+      "jury_rank": 9,
+      "televote_rank": 19
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        10,
+        11,
+        10,
+        10,
+        11
+      ],
+      "jury_rank": 13,
+      "televote_rank": 4
+    },
+    "cyprus": {
+      "jury_ranks": [
+        3,
+        2,
+        3,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    },
+    "ireland": {
+      "jury_ranks": [
+        11,
+        15,
+        17,
+        14,
+        13
+      ],
+      "jury_rank": 17,
+      "televote_rank": 12
+    },
+    "albania": {
+      "jury_ranks": [
+        5,
+        5,
+        5,
+        6,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 2
+    },
+    "hungary": {
+      "jury_ranks": [
+        1,
+        9,
+        14,
+        8,
+        5
+      ],
+      "jury_rank": 5,
+      "televote_rank": 13
+    },
+    "sweden": {
+      "jury_ranks": [
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "jury_rank": 3,
+      "televote_rank": 17
+    },
+    "lithuania": {
+      "jury_ranks": [
+        17,
+        20,
+        16,
+        16,
+        15
+      ],
+      "jury_rank": 18,
+      "televote_rank": 18
+    },
+    "austria": {
+      "jury_ranks": [
+        20,
+        19,
+        22,
+        17,
+        17
+      ],
+      "jury_rank": 20,
+      "televote_rank": 20
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        18,
+        14,
+        18,
+        12,
+        9
+      ],
+      "jury_rank": 16,
+      "televote_rank": 6
+    },
+    "finland": {
+      "jury_ranks": [
+        16,
+        21,
+        15,
+        15,
+        18
+      ],
+      "jury_rank": 19,
+      "televote_rank": 23
+    },
+    "portugal": {
+      "jury_ranks": [
+        21,
+        22,
+        23,
+        22,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        22,
+        24,
+        26,
+        21,
+        23
+      ],
+      "jury_rank": 26,
+      "televote_rank": 22
+    },
+    "spain": {
+      "jury_ranks": [
+        25,
+        25,
+        20,
+        19,
+        22
+      ],
+      "jury_rank": 24,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        19,
+        16,
+        1,
+        25,
+        24
+      ],
+      "jury_rank": 10,
+      "televote_rank": 3
+    },
+    "france": {
+      "jury_ranks": [
+        8,
+        1,
+        9,
+        7,
+        16
+      ],
+      "jury_rank": 6,
+      "televote_rank": 11
+    },
+    "germany": {
+      "jury_ranks": [
+        13,
+        13,
+        2,
+        18,
+        19
+      ],
+      "jury_rank": 11,
+      "televote_rank": 9
+    }
+  },
+  "portugal": {
+    "the-netherlands": {
+      "jury_ranks": [
+        21,
+        17,
+        14,
+        13,
+        21
+      ],
+      "jury_rank": 17,
+      "televote_rank": 20
+    },
+    "moldova": {
+      "jury_ranks": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 5
+    },
+    "ukraine": {
+      "jury_ranks": [
+        14,
+        13,
+        15,
+        20,
+        18
+      ],
+      "jury_rank": 16,
+      "televote_rank": 7
+    },
+    "norway": {
+      "jury_ranks": [
+        24,
+        24,
+        17,
+        24,
+        24
+      ],
+      "jury_rank": 23,
+      "televote_rank": 17
+    },
+    "slovenia": {
+      "jury_ranks": [
+        4,
+        3,
+        16,
+        6,
+        11
+      ],
+      "jury_rank": 8,
+      "televote_rank": 24
+    },
+    "estonia": {
+      "jury_ranks": [
+        1,
+        2,
+        5,
+        1,
+        4
+      ],
+      "jury_rank": 1,
+      "televote_rank": 4
+    },
+    "israel": {
+      "jury_ranks": [
+        9,
+        10,
+        13,
+        7,
+        16
+      ],
+      "jury_rank": 10,
+      "televote_rank": 10
+    },
+    "australia": {
+      "jury_ranks": [
+        12,
+        14,
+        9,
+        15,
+        13
+      ],
+      "jury_rank": 12,
+      "televote_rank": 14
+    },
+    "denmark": {
+      "jury_ranks": [
+        22,
+        22,
+        23,
+        23,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        15,
+        23,
+        21,
+        22,
+        20
+      ],
+      "jury_rank": 21,
+      "televote_rank": 25
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        19,
+        16,
+        11,
+        12,
+        9
+      ],
+      "jury_rank": 13,
+      "televote_rank": 15
+    },
+    "cyprus": {
+      "jury_ranks": [
+        11,
+        15,
+        10,
+        17,
+        17
+      ],
+      "jury_rank": 15,
+      "televote_rank": 6
+    },
+    "ireland": {
+      "jury_ranks": [
+        10,
+        11,
+        12,
+        9,
+        12
+      ],
+      "jury_rank": 11,
+      "televote_rank": 8
+    },
+    "albania": {
+      "jury_ranks": [
+        7,
+        1,
+        1,
+        10,
+        6
+      ],
+      "jury_rank": 2,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        17,
+        19,
+        24,
+        14,
+        22
+      ],
+      "jury_rank": 19,
+      "televote_rank": 18
+    },
+    "sweden": {
+      "jury_ranks": [
+        23,
+        21,
+        22,
+        19,
+        19
+      ],
+      "jury_rank": 22,
+      "televote_rank": 19
+    },
+    "lithuania": {
+      "jury_ranks": [
+        6,
+        6,
+        4,
+        2,
+        3
+      ],
+      "jury_rank": 5,
+      "televote_rank": 13
+    },
+    "austria": {
+      "jury_ranks": [
+        3,
+        7,
+        2,
+        4,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 11
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        2,
+        4,
+        3,
+        5,
+        7
+      ],
+      "jury_rank": 4,
+      "televote_rank": 21
+    },
+    "finland": {
+      "jury_ranks": [
+        18,
+        18,
+        20,
+        18,
+        15
+      ],
+      "jury_rank": 18,
+      "televote_rank": 22
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        20,
+        20,
+        19,
+        21,
+        14
+      ],
+      "jury_rank": 20,
+      "televote_rank": 16
+    },
+    "spain": {
+      "jury_ranks": [
+        13,
+        9,
+        7,
+        11,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 1
+    },
+    "italy": {
+      "jury_ranks": [
+        8,
+        8,
+        8,
+        3,
+        2
+      ],
+      "jury_rank": 7,
+      "televote_rank": 2
+    },
+    "france": {
+      "jury_ranks": [
+        5,
+        5,
+        6,
+        8,
+        1
+      ],
+      "jury_rank": 6,
+      "televote_rank": 12
+    },
+    "germany": {
+      "jury_ranks": [
+        16,
+        12,
+        18,
+        16,
+        8
+      ],
+      "jury_rank": 14,
+      "televote_rank": 3
+    }
+  },
+  "norway": {
+    "the-netherlands": {
+      "jury_ranks": [
+        2,
+        10,
+        6,
+        15,
+        9
+      ],
+      "jury_rank": 7,
+      "televote_rank": 6
+    },
+    "moldova": {
+      "jury_ranks": [
+        25,
+        20,
+        25,
+        25,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 17
+    },
+    "ukraine": {
+      "jury_ranks": [
+        10,
+        19,
+        17,
+        23,
+        22
+      ],
+      "jury_rank": 19,
+      "televote_rank": 20
+    },
+    "slovenia": {
+      "jury_ranks": [
+        14,
+        14,
+        20,
+        21,
+        19
+      ],
+      "jury_rank": 21,
+      "televote_rank": 23
+    },
+    "estonia": {
+      "jury_ranks": [
+        16,
+        25,
+        12,
+        14,
+        23
+      ],
+      "jury_rank": 20,
+      "televote_rank": 15
+    },
+    "israel": {
+      "jury_ranks": [
+        23,
+        12,
+        13,
+        12,
+        20
+      ],
+      "jury_rank": 16,
+      "televote_rank": 4
+    },
+    "australia": {
+      "jury_ranks": [
+        6,
+        7,
+        5,
+        4,
+        11
+      ],
+      "jury_rank": 5,
+      "televote_rank": 12
+    },
+    "denmark": {
+      "jury_ranks": [
+        20,
+        24,
+        23,
+        20,
+        14
+      ],
+      "jury_rank": 23,
+      "televote_rank": 2
+    },
+    "serbia": {
+      "jury_ranks": [
+        17,
+        21,
+        16,
+        18,
+        17
+      ],
+      "jury_rank": 22,
+      "televote_rank": 21
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        5,
+        15,
+        11,
+        17,
+        21
+      ],
+      "jury_rank": 13,
+      "televote_rank": 7
+    },
+    "cyprus": {
+      "jury_ranks": [
+        24,
+        3,
+        7,
+        8,
+        4
+      ],
+      "jury_rank": 6,
+      "televote_rank": 9
+    },
+    "ireland": {
+      "jury_ranks": [
+        9,
+        11,
+        10,
+        19,
+        5
+      ],
+      "jury_rank": 10,
+      "televote_rank": 19
+    },
+    "albania": {
+      "jury_ranks": [
+        3,
+        16,
+        18,
+        16,
+        18
+      ],
+      "jury_rank": 12,
+      "televote_rank": 22
+    },
+    "hungary": {
+      "jury_ranks": [
+        22,
+        22,
+        24,
+        24,
+        25
+      ],
+      "jury_rank": 24,
+      "televote_rank": 18
+    },
+    "sweden": {
+      "jury_ranks": [
+        12,
+        1,
+        1,
+        1,
+        1
+      ],
+      "jury_rank": 2,
+      "televote_rank": 8
+    },
+    "lithuania": {
+      "jury_ranks": [
+        8,
+        8,
+        14,
+        7,
+        6
+      ],
+      "jury_rank": 8,
+      "televote_rank": 1
+    },
+    "austria": {
+      "jury_ranks": [
+        7,
+        5,
+        3,
+        6,
+        3
+      ],
+      "jury_rank": 3,
+      "televote_rank": 3
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        19,
+        17,
+        22,
+        5,
+        12
+      ],
+      "jury_rank": 14,
+      "televote_rank": 16
+    },
+    "finland": {
+      "jury_ranks": [
+        18,
+        18,
+        19,
+        9,
+        16
+      ],
+      "jury_rank": 17,
+      "televote_rank": 13
+    },
+    "portugal": {
+      "jury_ranks": [
+        11,
+        6,
+        21,
+        10,
+        8
+      ],
+      "jury_rank": 11,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        13,
+        13,
+        8,
+        22,
+        10
+      ],
+      "jury_rank": 15,
+      "televote_rank": 14
+    },
+    "spain": {
+      "jury_ranks": [
+        15,
+        4,
+        9,
+        13,
+        7
+      ],
+      "jury_rank": 9,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        21,
+        23,
+        15,
+        11,
+        15
+      ],
+      "jury_rank": 18,
+      "televote_rank": 11
+    },
+    "france": {
+      "jury_ranks": [
+        4,
+        9,
+        4,
+        2,
+        13
+      ],
+      "jury_rank": 4,
+      "televote_rank": 10
+    },
+    "germany": {
+      "jury_ranks": [
+        1,
+        2,
+        2,
+        3,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 5
+    }
+  },
+  "finland": {
+    "the-netherlands": {
+      "jury_ranks": [
+        17,
+        18,
+        20,
+        17,
+        17
+      ],
+      "jury_rank": 19,
+      "televote_rank": 9
+    },
+    "moldova": {
+      "jury_ranks": [
+        18,
+        25,
+        14,
+        19,
+        24
+      ],
+      "jury_rank": 22,
+      "televote_rank": 13
+    },
+    "ukraine": {
+      "jury_ranks": [
+        21,
+        21,
+        21,
+        20,
+        19
+      ],
+      "jury_rank": 23,
+      "televote_rank": 19
+    },
+    "norway": {
+      "jury_ranks": [
+        10,
+        16,
+        7,
+        16,
+        23
+      ],
+      "jury_rank": 13,
+      "televote_rank": 11
+    },
+    "slovenia": {
+      "jury_ranks": [
+        23,
+        24,
+        25,
+        24,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 22
+    },
+    "estonia": {
+      "jury_ranks": [
+        20,
+        12,
+        17,
+        21,
+        22
+      ],
+      "jury_rank": 18,
+      "televote_rank": 1
+    },
+    "israel": {
+      "jury_ranks": [
+        1,
+        1,
+        10,
+        1,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 4
+    },
+    "australia": {
+      "jury_ranks": [
+        25,
+        22,
+        16,
+        14,
+        21
+      ],
+      "jury_rank": 21,
+      "televote_rank": 18
+    },
+    "denmark": {
+      "jury_ranks": [
+        4,
+        20,
+        3,
+        15,
+        9
+      ],
+      "jury_rank": 8,
+      "televote_rank": 2
+    },
+    "serbia": {
+      "jury_ranks": [
+        19,
+        19,
+        22,
+        23,
+        20
+      ],
+      "jury_rank": 24,
+      "televote_rank": 25
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        15,
+        7,
+        12,
+        12,
+        13
+      ],
+      "jury_rank": 11,
+      "televote_rank": 6
+    },
+    "cyprus": {
+      "jury_ranks": [
+        6,
+        3,
+        9,
+        2,
+        5
+      ],
+      "jury_rank": 5,
+      "televote_rank": 10
+    },
+    "ireland": {
+      "jury_ranks": [
+        7,
+        10,
+        15,
+        9,
+        8
+      ],
+      "jury_rank": 9,
+      "televote_rank": 15
+    },
+    "albania": {
+      "jury_ranks": [
+        14,
+        11,
+        11,
+        13,
+        10
+      ],
+      "jury_rank": 12,
+      "televote_rank": 17
+    },
+    "hungary": {
+      "jury_ranks": [
+        12,
+        23,
+        23,
+        25,
+        12
+      ],
+      "jury_rank": 17,
+      "televote_rank": 3
+    },
+    "sweden": {
+      "jury_ranks": [
+        3,
+        4,
+        6,
+        3,
+        3
+      ],
+      "jury_rank": 3,
+      "televote_rank": 12
+    },
+    "lithuania": {
+      "jury_ranks": [
+        13,
+        13,
+        19,
+        8,
+        15
+      ],
+      "jury_rank": 14,
+      "televote_rank": 14
+    },
+    "austria": {
+      "jury_ranks": [
+        5,
+        2,
+        2,
+        6,
+        7
+      ],
+      "jury_rank": 4,
+      "televote_rank": 8
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        2,
+        5,
+        1,
+        4,
+        6
+      ],
+      "jury_rank": 2,
+      "televote_rank": 20
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        15,
+        24,
+        22,
+        14
+      ],
+      "jury_rank": 20,
+      "televote_rank": 23
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        11,
+        17,
+        13,
+        18,
+        18
+      ],
+      "jury_rank": 16,
+      "televote_rank": 21
+    },
+    "spain": {
+      "jury_ranks": [
+        22,
+        14,
+        18,
+        7,
+        16
+      ],
+      "jury_rank": 15,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        8,
+        9,
+        5,
+        10,
+        4
+      ],
+      "jury_rank": 7,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        16,
+        6,
+        4,
+        5,
+        1
+      ],
+      "jury_rank": 6,
+      "televote_rank": 7
+    },
+    "germany": {
+      "jury_ranks": [
+        9,
+        8,
+        8,
+        11,
+        11
+      ],
+      "jury_rank": 10,
+      "televote_rank": 16
+    }
+  },
+  "slovenia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        6,
+        4,
+        7,
+        3,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 18
+    },
+    "moldova": {
+      "jury_ranks": [
+        12,
+        5,
+        3,
+        6,
+        12
+      ],
+      "jury_rank": 5,
+      "televote_rank": 15
+    },
+    "ukraine": {
+      "jury_ranks": [
+        24,
+        20,
+        24,
+        25,
+        24
+      ],
+      "jury_rank": 24,
+      "televote_rank": 13
+    },
+    "norway": {
+      "jury_ranks": [
+        18,
+        14,
+        18,
+        12,
+        8
+      ],
+      "jury_rank": 17,
+      "televote_rank": 6
+    },
+    "estonia": {
+      "jury_ranks": [
+        3,
+        12,
+        5,
+        5,
+        22
+      ],
+      "jury_rank": 6,
+      "televote_rank": 16
+    },
+    "israel": {
+      "jury_ranks": [
+        23,
+        22,
+        2,
+        11,
+        19
+      ],
+      "jury_rank": 10,
+      "televote_rank": 12
+    },
+    "australia": {
+      "jury_ranks": [
+        19,
+        18,
+        23,
+        20,
+        21
+      ],
+      "jury_rank": 23,
+      "televote_rank": 14
+    },
+    "denmark": {
+      "jury_ranks": [
+        20,
+        23,
+        14,
+        24,
+        25
+      ],
+      "jury_rank": 22,
+      "televote_rank": 4
+    },
+    "serbia": {
+      "jury_ranks": [
+        9,
+        16,
+        9,
+        17,
+        13
+      ],
+      "jury_rank": 15,
+      "televote_rank": 1
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        7,
+        8,
+        22,
+        9,
+        3
+      ],
+      "jury_rank": 8,
+      "televote_rank": 3
+    },
+    "cyprus": {
+      "jury_ranks": [
+        10,
+        1,
+        4,
+        4,
+        9
+      ],
+      "jury_rank": 3,
+      "televote_rank": 5
+    },
+    "ireland": {
+      "jury_ranks": [
+        14,
+        25,
+        16,
+        8,
+        11
+      ],
+      "jury_rank": 16,
+      "televote_rank": 17
+    },
+    "albania": {
+      "jury_ranks": [
+        8,
+        10,
+        6,
+        7,
+        4
+      ],
+      "jury_rank": 7,
+      "televote_rank": 10
+    },
+    "hungary": {
+      "jury_ranks": [
+        15,
+        24,
+        17,
+        21,
+        20
+      ],
+      "jury_rank": 21,
+      "televote_rank": 8
+    },
+    "sweden": {
+      "jury_ranks": [
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 19
+    },
+    "lithuania": {
+      "jury_ranks": [
+        16,
+        11,
+        11,
+        15,
+        7
+      ],
+      "jury_rank": 12,
+      "televote_rank": 24
+    },
+    "austria": {
+      "jury_ranks": [
+        2,
+        3,
+        8,
+        1,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 9
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        17,
+        9,
+        20,
+        16,
+        15
+      ],
+      "jury_rank": 19,
+      "televote_rank": 20
+    },
+    "finland": {
+      "jury_ranks": [
+        4,
+        15,
+        21,
+        19,
+        17
+      ],
+      "jury_rank": 13,
+      "televote_rank": 22
+    },
+    "portugal": {
+      "jury_ranks": [
+        25,
+        21,
+        25,
+        23,
+        23
+      ],
+      "jury_rank": 25,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        22,
+        19,
+        15,
+        10,
+        10
+      ],
+      "jury_rank": 18,
+      "televote_rank": 23
+    },
+    "spain": {
+      "jury_ranks": [
+        21,
+        13,
+        13,
+        22,
+        18
+      ],
+      "jury_rank": 20,
+      "televote_rank": 21
+    },
+    "italy": {
+      "jury_ranks": [
+        13,
+        6,
+        12,
+        14,
+        14
+      ],
+      "jury_rank": 11,
+      "televote_rank": 2
+    },
+    "france": {
+      "jury_ranks": [
+        5,
+        7,
+        10,
+        13,
+        16
+      ],
+      "jury_rank": 9,
+      "televote_rank": 11
+    },
+    "germany": {
+      "jury_ranks": [
+        11,
+        17,
+        19,
+        18,
+        5
+      ],
+      "jury_rank": 14,
+      "televote_rank": 7
+    }
+  },
+  "croatia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        25,
+        20,
+        16,
+        26,
+        23
+      ],
+      "jury_rank": 25,
+      "televote_rank": 21
+    },
+    "moldova": {
+      "jury_ranks": [
+        9,
+        11,
+        4,
+        1,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 22
+    },
+    "ukraine": {
+      "jury_ranks": [
+        17,
+        16,
+        26,
+        20,
+        18
+      ],
+      "jury_rank": 24,
+      "televote_rank": 20
+    },
+    "norway": {
+      "jury_ranks": [
+        22,
+        4,
+        2,
+        6,
+        11
+      ],
+      "jury_rank": 6,
+      "televote_rank": 14
+    },
+    "slovenia": {
+      "jury_ranks": [
+        8,
+        21,
+        7,
+        19,
+        19
+      ],
+      "jury_rank": 16,
+      "televote_rank": 4
+    },
+    "estonia": {
+      "jury_ranks": [
+        16,
+        13,
+        21,
+        25,
+        7
+      ],
+      "jury_rank": 18,
+      "televote_rank": 13
+    },
+    "israel": {
+      "jury_ranks": [
+        6,
+        3,
+        3,
+        3,
+        22
+      ],
+      "jury_rank": 2,
+      "televote_rank": 5
+    },
+    "australia": {
+      "jury_ranks": [
+        2,
+        24,
+        15,
+        22,
+        20
+      ],
+      "jury_rank": 12,
+      "televote_rank": 17
+    },
+    "denmark": {
+      "jury_ranks": [
+        23,
+        26,
+        25,
+        14,
+        14
+      ],
+      "jury_rank": 23,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        14,
+        14,
+        23,
+        16,
+        17
+      ],
+      "jury_rank": 21,
+      "televote_rank": 1
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        3,
+        10,
+        10,
+        4,
+        8
+      ],
+      "jury_rank": 7,
+      "televote_rank": 6
+    },
+    "cyprus": {
+      "jury_ranks": [
+        18,
+        25,
+        5,
+        8,
+        9
+      ],
+      "jury_rank": 11,
+      "televote_rank": 3
+    },
+    "ireland": {
+      "jury_ranks": [
+        5,
+        9,
+        17,
+        21,
+        2
+      ],
+      "jury_rank": 8,
+      "televote_rank": 15
+    },
+    "albania": {
+      "jury_ranks": [
+        24,
+        7,
+        6,
+        10,
+        13
+      ],
+      "jury_rank": 10,
+      "televote_rank": 7
+    },
+    "hungary": {
+      "jury_ranks": [
+        26,
+        22,
+        24,
+        23,
+        21
+      ],
+      "jury_rank": 26,
+      "televote_rank": 16
+    },
+    "sweden": {
+      "jury_ranks": [
+        12,
+        5,
+        13,
+        12,
+        12
+      ],
+      "jury_rank": 13,
+      "televote_rank": 23
+    },
+    "lithuania": {
+      "jury_ranks": [
+        4,
+        8,
+        1,
+        2,
+        3
+      ],
+      "jury_rank": 1,
+      "televote_rank": 24
+    },
+    "austria": {
+      "jury_ranks": [
+        7,
+        6,
+        12,
+        18,
+        26
+      ],
+      "jury_rank": 14,
+      "televote_rank": 11
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        1,
+        1,
+        20,
+        9,
+        15
+      ],
+      "jury_rank": 4,
+      "televote_rank": 10
+    },
+    "finland": {
+      "jury_ranks": [
+        10,
+        23,
+        11,
+        15,
+        25
+      ],
+      "jury_rank": 20,
+      "televote_rank": 25
+    },
+    "portugal": {
+      "jury_ranks": [
+        15,
+        15,
+        22,
+        11,
+        10
+      ],
+      "jury_rank": 19,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        21,
+        18,
+        14,
+        13,
+        1
+      ],
+      "jury_rank": 9,
+      "televote_rank": 18
+    },
+    "spain": {
+      "jury_ranks": [
+        11,
+        17,
+        8,
+        7,
+        24
+      ],
+      "jury_rank": 15,
+      "televote_rank": 19
+    },
+    "italy": {
+      "jury_ranks": [
+        19,
+        19,
+        18,
+        17,
+        6
+      ],
+      "jury_rank": 17,
+      "televote_rank": 2
+    },
+    "france": {
+      "jury_ranks": [
+        13,
+        2,
+        9,
+        5,
+        4
+      ],
+      "jury_rank": 5,
+      "televote_rank": 12
+    },
+    "germany": {
+      "jury_ranks": [
+        20,
+        12,
+        19,
+        24,
+        16
+      ],
+      "jury_rank": 22,
+      "televote_rank": 8
+    }
+  },
+  "estonia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        9,
+        8,
+        21,
+        15,
+        5
+      ],
+      "jury_rank": 10,
+      "televote_rank": 11
+    },
+    "moldova": {
+      "jury_ranks": [
+        10,
+        16,
+        25,
+        23,
+        23
+      ],
+      "jury_rank": 22,
+      "televote_rank": 10
+    },
+    "ukraine": {
+      "jury_ranks": [
+        19,
+        17,
+        11,
+        14,
+        18
+      ],
+      "jury_rank": 19,
+      "televote_rank": 19
+    },
+    "norway": {
+      "jury_ranks": [
+        6,
+        6,
+        14,
+        8,
+        12
+      ],
+      "jury_rank": 7,
+      "televote_rank": 9
+    },
+    "slovenia": {
+      "jury_ranks": [
+        22,
+        25,
+        17,
+        13,
+        19
+      ],
+      "jury_rank": 23,
+      "televote_rank": 24
+    },
+    "israel": {
+      "jury_ranks": [
+        24,
+        22,
+        7,
+        24,
+        25
+      ],
+      "jury_rank": 16,
+      "televote_rank": 16
+    },
+    "australia": {
+      "jury_ranks": [
+        13,
+        13,
+        24,
+        12,
+        20
+      ],
+      "jury_rank": 18,
+      "televote_rank": 14
+    },
+    "denmark": {
+      "jury_ranks": [
+        14,
+        12,
+        16,
+        21,
+        14
+      ],
+      "jury_rank": 17,
+      "televote_rank": 3
+    },
+    "serbia": {
+      "jury_ranks": [
+        25,
+        24,
+        23,
+        20,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 25
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        23,
+        11,
+        8,
+        25,
+        24
+      ],
+      "jury_rank": 15,
+      "televote_rank": 6
+    },
+    "cyprus": {
+      "jury_ranks": [
+        1,
+        2,
+        9,
+        3,
+        6
+      ],
+      "jury_rank": 3,
+      "televote_rank": 7
+    },
+    "ireland": {
+      "jury_ranks": [
+        15,
+        21,
+        10,
+        6,
+        8
+      ],
+      "jury_rank": 11,
+      "televote_rank": 13
+    },
+    "albania": {
+      "jury_ranks": [
+        18,
+        18,
+        19,
+        18,
+        10
+      ],
+      "jury_rank": 20,
+      "televote_rank": 20
+    },
+    "hungary": {
+      "jury_ranks": [
+        21,
+        23,
+        22,
+        22,
+        13
+      ],
+      "jury_rank": 24,
+      "televote_rank": 8
+    },
+    "sweden": {
+      "jury_ranks": [
+        4,
+        3,
+        20,
+        7,
+        11
+      ],
+      "jury_rank": 6,
+      "televote_rank": 17
+    },
+    "lithuania": {
+      "jury_ranks": [
+        11,
+        4,
+        1,
+        2,
+        1
+      ],
+      "jury_rank": 2,
+      "televote_rank": 1
+    },
+    "austria": {
+      "jury_ranks": [
+        3,
+        1,
+        3,
+        1,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 5
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        2,
+        15,
+        4,
+        5,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 23
+    },
+    "finland": {
+      "jury_ranks": [
+        7,
+        5,
+        18,
+        11,
+        15
+      ],
+      "jury_rank": 9,
+      "televote_rank": 2
+    },
+    "portugal": {
+      "jury_ranks": [
+        5,
+        19,
+        12,
+        10,
+        7
+      ],
+      "jury_rank": 8,
+      "televote_rank": 22
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        12,
+        9,
+        5,
+        19,
+        17
+      ],
+      "jury_rank": 12,
+      "televote_rank": 21
+    },
+    "spain": {
+      "jury_ranks": [
+        20,
+        20,
+        6,
+        9,
+        9
+      ],
+      "jury_rank": 13,
+      "televote_rank": 18
+    },
+    "italy": {
+      "jury_ranks": [
+        16,
+        14,
+        13,
+        16,
+        22
+      ],
+      "jury_rank": 21,
+      "televote_rank": 4
+    },
+    "france": {
+      "jury_ranks": [
+        8,
+        10,
+        15,
+        17,
+        16
+      ],
+      "jury_rank": 14,
+      "televote_rank": 12
+    },
+    "germany": {
+      "jury_ranks": [
+        17,
+        7,
+        2,
+        4,
+        3
+      ],
+      "jury_rank": 5,
+      "televote_rank": 15
+    }
+  },
+  "fyr-macedonia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        10,
+        13,
+        24,
+        12,
+        8
+      ],
+      "jury_rank": 18,
+      "televote_rank": 24
+    },
+    "moldova": {
+      "jury_ranks": [
+        23,
+        26,
+        3,
+        4,
+        26
+      ],
+      "jury_rank": 11,
+      "televote_rank": 10
+    },
+    "ukraine": {
+      "jury_ranks": [
+        13,
+        20,
+        13,
+        18,
+        22
+      ],
+      "jury_rank": 24,
+      "televote_rank": 7
+    },
+    "norway": {
+      "jury_ranks": [
+        18,
+        19,
+        7,
+        5,
+        17
+      ],
+      "jury_rank": 15,
+      "televote_rank": 13
+    },
+    "slovenia": {
+      "jury_ranks": [
+        14,
+        3,
+        8,
+        7,
+        19
+      ],
+      "jury_rank": 9,
+      "televote_rank": 9
+    },
+    "estonia": {
+      "jury_ranks": [
+        5,
+        1,
+        6,
+        6,
+        6
+      ],
+      "jury_rank": 1,
+      "televote_rank": 17
+    },
+    "israel": {
+      "jury_ranks": [
+        7,
+        12,
+        2,
+        24,
+        24
+      ],
+      "jury_rank": 10,
+      "televote_rank": 8
+    },
+    "australia": {
+      "jury_ranks": [
+        3,
+        22,
+        15,
+        10,
+        20
+      ],
+      "jury_rank": 14,
+      "televote_rank": 15
+    },
+    "denmark": {
+      "jury_ranks": [
+        22,
+        18,
+        23,
+        15,
+        11
+      ],
+      "jury_rank": 23,
+      "televote_rank": 12
+    },
+    "serbia": {
+      "jury_ranks": [
+        1,
+        4,
+        12,
+        13,
+        10
+      ],
+      "jury_rank": 3,
+      "televote_rank": 2
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        20,
+        11,
+        1,
+        14,
+        7
+      ],
+      "jury_rank": 7,
+      "televote_rank": 6
+    },
+    "cyprus": {
+      "jury_ranks": [
+        4,
+        2,
+        4,
+        22,
+        4
+      ],
+      "jury_rank": 2,
+      "televote_rank": 3
+    },
+    "ireland": {
+      "jury_ranks": [
+        9,
+        25,
+        25,
+        23,
+        9
+      ],
+      "jury_rank": 19,
+      "televote_rank": 21
+    },
+    "albania": {
+      "jury_ranks": [
+        6,
+        6,
+        10,
+        3,
+        12
+      ],
+      "jury_rank": 5,
+      "televote_rank": 1
+    },
+    "hungary": {
+      "jury_ranks": [
+        11,
+        21,
+        21,
+        8,
+        25
+      ],
+      "jury_rank": 20,
+      "televote_rank": 23
+    },
+    "sweden": {
+      "jury_ranks": [
+        2,
+        15,
+        14,
+        11,
+        3
+      ],
+      "jury_rank": 4,
+      "televote_rank": 18
+    },
+    "lithuania": {
+      "jury_ranks": [
+        24,
+        7,
+        26,
+        21,
+        13
+      ],
+      "jury_rank": 22,
+      "televote_rank": 25
+    },
+    "austria": {
+      "jury_ranks": [
+        16,
+        16,
+        17,
+        9,
+        5
+      ],
+      "jury_rank": 17,
+      "televote_rank": 14
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        17,
+        8,
+        5,
+        25,
+        15
+      ],
+      "jury_rank": 16,
+      "televote_rank": 4
+    },
+    "finland": {
+      "jury_ranks": [
+        21,
+        5,
+        9,
+        16,
+        2
+      ],
+      "jury_rank": 6,
+      "televote_rank": 20
+    },
+    "portugal": {
+      "jury_ranks": [
+        26,
+        23,
+        20,
+        20,
+        21
+      ],
+      "jury_rank": 26,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        25,
+        14,
+        18,
+        19,
+        1
+      ],
+      "jury_rank": 13,
+      "televote_rank": 22
+    },
+    "spain": {
+      "jury_ranks": [
+        15,
+        24,
+        16,
+        17,
+        23
+      ],
+      "jury_rank": 25,
+      "televote_rank": 19
+    },
+    "italy": {
+      "jury_ranks": [
+        12,
+        17,
+        22,
+        1,
+        18
+      ],
+      "jury_rank": 12,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        19,
+        9,
+        11,
+        26,
+        16
+      ],
+      "jury_rank": 21,
+      "televote_rank": 16
+    },
+    "germany": {
+      "jury_ranks": [
+        8,
+        10,
+        19,
+        2,
+        14
+      ],
+      "jury_rank": 8,
+      "televote_rank": 11
+    }
+  },
+  "hungary": {
+    "the-netherlands": {
+      "jury_ranks": [
+        17,
+        6,
+        13,
+        4,
+        12
+      ],
+      "jury_rank": 7,
+      "televote_rank": 7
+    },
+    "moldova": {
+      "jury_ranks": [
+        2,
+        22,
+        20,
+        24,
+        17
+      ],
+      "jury_rank": 13,
+      "televote_rank": 9
+    },
+    "ukraine": {
+      "jury_ranks": [
+        20,
+        20,
+        7,
+        19,
+        16
+      ],
+      "jury_rank": 17,
+      "televote_rank": 11
+    },
+    "norway": {
+      "jury_ranks": [
+        12,
+        11,
+        4,
+        23,
+        8
+      ],
+      "jury_rank": 9,
+      "televote_rank": 6
+    },
+    "slovenia": {
+      "jury_ranks": [
+        16,
+        14,
+        21,
+        21,
+        19
+      ],
+      "jury_rank": 22,
+      "televote_rank": 18
+    },
+    "estonia": {
+      "jury_ranks": [
+        8,
+        9,
+        17,
+        11,
+        13
+      ],
+      "jury_rank": 15,
+      "televote_rank": 13
+    },
+    "israel": {
+      "jury_ranks": [
+        14,
+        13,
+        6,
+        6,
+        7
+      ],
+      "jury_rank": 5,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        7,
+        3,
+        5,
+        2,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 20
+    },
+    "denmark": {
+      "jury_ranks": [
+        1,
+        1,
+        3,
+        1,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    },
+    "serbia": {
+      "jury_ranks": [
+        25,
+        21,
+        10,
+        17,
+        21
+      ],
+      "jury_rank": 21,
+      "televote_rank": 16
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        21,
+        25,
+        16,
+        25,
+        15
+      ],
+      "jury_rank": 23,
+      "televote_rank": 3
+    },
+    "cyprus": {
+      "jury_ranks": [
+        4,
+        18,
+        8,
+        18,
+        11
+      ],
+      "jury_rank": 11,
+      "televote_rank": 4
+    },
+    "ireland": {
+      "jury_ranks": [
+        6,
+        15,
+        14,
+        5,
+        10
+      ],
+      "jury_rank": 8,
+      "televote_rank": 15
+    },
+    "albania": {
+      "jury_ranks": [
+        3,
+        2,
+        1,
+        3,
+        9
+      ],
+      "jury_rank": 2,
+      "televote_rank": 19
+    },
+    "sweden": {
+      "jury_ranks": [
+        13,
+        8,
+        9,
+        20,
+        5
+      ],
+      "jury_rank": 10,
+      "televote_rank": 21
+    },
+    "lithuania": {
+      "jury_ranks": [
+        10,
+        10,
+        12,
+        9,
+        4
+      ],
+      "jury_rank": 6,
+      "televote_rank": 17
+    },
+    "austria": {
+      "jury_ranks": [
+        5,
+        4,
+        2,
+        8,
+        1
+      ],
+      "jury_rank": 3,
+      "televote_rank": 8
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        22,
+        12,
+        11,
+        16,
+        3
+      ],
+      "jury_rank": 12,
+      "televote_rank": 12
+    },
+    "finland": {
+      "jury_ranks": [
+        9,
+        24,
+        18,
+        13,
+        25
+      ],
+      "jury_rank": 19,
+      "televote_rank": 14
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        23,
+        25,
+        7,
+        20
+      ],
+      "jury_rank": 18,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        18,
+        16,
+        19,
+        10,
+        24
+      ],
+      "jury_rank": 20,
+      "televote_rank": 23
+    },
+    "spain": {
+      "jury_ranks": [
+        19,
+        7,
+        22,
+        14,
+        18
+      ],
+      "jury_rank": 16,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        15,
+        19,
+        23,
+        22,
+        22
+      ],
+      "jury_rank": 25,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        23,
+        17,
+        24,
+        15,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 22
+    },
+    "germany": {
+      "jury_ranks": [
+        11,
+        5,
+        15,
+        12,
+        14
+      ],
+      "jury_rank": 14,
+      "televote_rank": 10
+    }
+  },
+  "latvia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        9,
+        5,
+        3,
+        7,
+        9
+      ],
+      "jury_rank": 6,
+      "televote_rank": 15
+    },
+    "moldova": {
+      "jury_ranks": [
+        20,
+        20,
+        15,
+        6,
+        18
+      ],
+      "jury_rank": 16,
+      "televote_rank": 4
+    },
+    "ukraine": {
+      "jury_ranks": [
+        18,
+        10,
+        12,
+        18,
+        12
+      ],
+      "jury_rank": 18,
+      "televote_rank": 8
+    },
+    "norway": {
+      "jury_ranks": [
+        5,
+        16,
+        13,
+        5,
+        21
+      ],
+      "jury_rank": 11,
+      "televote_rank": 9
+    },
+    "slovenia": {
+      "jury_ranks": [
+        14,
+        26,
+        24,
+        1,
+        13
+      ],
+      "jury_rank": 10,
+      "televote_rank": 22
+    },
+    "estonia": {
+      "jury_ranks": [
+        1,
+        8,
+        8,
+        12,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 2
+    },
+    "israel": {
+      "jury_ranks": [
+        2,
+        23,
+        18,
+        21,
+        10
+      ],
+      "jury_rank": 12,
+      "televote_rank": 3
+    },
+    "australia": {
+      "jury_ranks": [
+        7,
+        9,
+        6,
+        4,
+        4
+      ],
+      "jury_rank": 5,
+      "televote_rank": 13
+    },
+    "denmark": {
+      "jury_ranks": [
+        17,
+        21,
+        22,
+        13,
+        19
+      ],
+      "jury_rank": 24,
+      "televote_rank": 6
+    },
+    "serbia": {
+      "jury_ranks": [
+        12,
+        18,
+        11,
+        9,
+        14
+      ],
+      "jury_rank": 15,
+      "televote_rank": 23
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        23,
+        17,
+        17,
+        25,
+        2
+      ],
+      "jury_rank": 13,
+      "televote_rank": 7
+    },
+    "cyprus": {
+      "jury_ranks": [
+        16,
+        12,
+        19,
+        22,
+        11
+      ],
+      "jury_rank": 19,
+      "televote_rank": 10
+    },
+    "ireland": {
+      "jury_ranks": [
+        21,
+        11,
+        21,
+        15,
+        17
+      ],
+      "jury_rank": 21,
+      "televote_rank": 14
+    },
+    "albania": {
+      "jury_ranks": [
+        10,
+        22,
+        20,
+        17,
+        24
+      ],
+      "jury_rank": 22,
+      "televote_rank": 24
+    },
+    "hungary": {
+      "jury_ranks": [
+        15,
+        24,
+        9,
+        20,
+        23
+      ],
+      "jury_rank": 20,
+      "televote_rank": 12
+    },
+    "sweden": {
+      "jury_ranks": [
+        4,
+        2,
+        1,
+        3,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 11
+    },
+    "lithuania": {
+      "jury_ranks": [
+        3,
+        6,
+        16,
+        8,
+        6
+      ],
+      "jury_rank": 7,
+      "televote_rank": 1
+    },
+    "austria": {
+      "jury_ranks": [
+        13,
+        3,
+        2,
+        10,
+        8
+      ],
+      "jury_rank": 4,
+      "televote_rank": 19
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        8,
+        15,
+        4,
+        19,
+        25
+      ],
+      "jury_rank": 14,
+      "televote_rank": 20
+    },
+    "finland": {
+      "jury_ranks": [
+        19,
+        19,
+        14,
+        24,
+        20
+      ],
+      "jury_rank": 26,
+      "televote_rank": 21
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        7,
+        10,
+        26,
+        22
+      ],
+      "jury_rank": 17,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        6,
+        25,
+        26,
+        2,
+        26
+      ],
+      "jury_rank": 9,
+      "televote_rank": 18
+    },
+    "spain": {
+      "jury_ranks": [
+        26,
+        14,
+        25,
+        16,
+        15
+      ],
+      "jury_rank": 23,
+      "televote_rank": 25
+    },
+    "italy": {
+      "jury_ranks": [
+        25,
+        13,
+        23,
+        23,
+        16
+      ],
+      "jury_rank": 25,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        22,
+        1,
+        7,
+        11,
+        3
+      ],
+      "jury_rank": 2,
+      "televote_rank": 16
+    },
+    "germany": {
+      "jury_ranks": [
+        11,
+        4,
+        5,
+        14,
+        7
+      ],
+      "jury_rank": 8,
+      "televote_rank": 17
+    }
+  },
+  "lithuania": {
+    "the-netherlands": {
+      "jury_ranks": [
+        15,
+        5,
+        12,
+        5,
+        22
+      ],
+      "jury_rank": 8,
+      "televote_rank": 13
+    },
+    "moldova": {
+      "jury_ranks": [
+        25,
+        25,
+        25,
+        25,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 16
+    },
+    "ukraine": {
+      "jury_ranks": [
+        19,
+        24,
+        18,
+        16,
+        19
+      ],
+      "jury_rank": 22,
+      "televote_rank": 12
+    },
+    "norway": {
+      "jury_ranks": [
+        7,
+        16,
+        9,
+        19,
+        18
+      ],
+      "jury_rank": 16,
+      "televote_rank": 18
+    },
+    "slovenia": {
+      "jury_ranks": [
+        9,
+        10,
+        16,
+        15,
+        8
+      ],
+      "jury_rank": 12,
+      "televote_rank": 22
+    },
+    "estonia": {
+      "jury_ranks": [
+        13,
+        18,
+        14,
+        13,
+        16
+      ],
+      "jury_rank": 18,
+      "televote_rank": 1
+    },
+    "israel": {
+      "jury_ranks": [
+        3,
+        4,
+        10,
+        4,
+        3
+      ],
+      "jury_rank": 5,
+      "televote_rank": 10
+    },
+    "australia": {
+      "jury_ranks": [
+        18,
+        13,
+        22,
+        9,
+        12
+      ],
+      "jury_rank": 17,
+      "televote_rank": 11
+    },
+    "denmark": {
+      "jury_ranks": [
+        21,
+        21,
+        23,
+        24,
+        17
+      ],
+      "jury_rank": 23,
+      "televote_rank": 2
+    },
+    "serbia": {
+      "jury_ranks": [
+        23,
+        20,
+        21,
+        23,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 25
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        24,
+        14,
+        13,
+        17,
+        15
+      ],
+      "jury_rank": 20,
+      "televote_rank": 3
+    },
+    "cyprus": {
+      "jury_ranks": [
+        12,
+        23,
+        20,
+        8,
+        5
+      ],
+      "jury_rank": 10,
+      "televote_rank": 5
+    },
+    "ireland": {
+      "jury_ranks": [
+        6,
+        8,
+        7,
+        7,
+        14
+      ],
+      "jury_rank": 7,
+      "televote_rank": 15
+    },
+    "albania": {
+      "jury_ranks": [
+        11,
+        12,
+        5,
+        21,
+        24
+      ],
+      "jury_rank": 14,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        20,
+        19,
+        4,
+        22,
+        7
+      ],
+      "jury_rank": 9,
+      "televote_rank": 14
+    },
+    "sweden": {
+      "jury_ranks": [
+        17,
+        1,
+        6,
+        3,
+        2
+      ],
+      "jury_rank": 3,
+      "televote_rank": 7
+    },
+    "austria": {
+      "jury_ranks": [
+        2,
+        3,
+        3,
+        2,
+        4
+      ],
+      "jury_rank": 1,
+      "televote_rank": 8
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        14,
+        9,
+        17,
+        12,
+        6
+      ],
+      "jury_rank": 11,
+      "televote_rank": 17
+    },
+    "finland": {
+      "jury_ranks": [
+        22,
+        17,
+        24,
+        20,
+        9
+      ],
+      "jury_rank": 19,
+      "televote_rank": 19
+    },
+    "portugal": {
+      "jury_ranks": [
+        1,
+        6,
+        1,
+        10,
+        10
+      ],
+      "jury_rank": 4,
+      "televote_rank": 21
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        10,
+        15,
+        11,
+        11,
+        11
+      ],
+      "jury_rank": 15,
+      "televote_rank": 20
+    },
+    "spain": {
+      "jury_ranks": [
+        8,
+        11,
+        8,
+        14,
+        20
+      ],
+      "jury_rank": 13,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        16,
+        22,
+        15,
+        18,
+        21
+      ],
+      "jury_rank": 21,
+      "televote_rank": 4
+    },
+    "france": {
+      "jury_ranks": [
+        5,
+        2,
+        19,
+        1,
+        1
+      ],
+      "jury_rank": 2,
+      "televote_rank": 6
+    },
+    "germany": {
+      "jury_ranks": [
+        4,
+        7,
+        2,
+        6,
+        13
+      ],
+      "jury_rank": 6,
+      "televote_rank": 9
+    }
+  },
+  "malta": {
+    "the-netherlands": {
+      "jury_ranks": [
+        16,
+        20,
+        22,
+        16,
+        14
+      ],
+      "jury_rank": 19,
+      "televote_rank": 20
+    },
+    "moldova": {
+      "jury_ranks": [
+        15,
+        15,
+        24,
+        24,
+        17
+      ],
+      "jury_rank": 20,
+      "televote_rank": 22
+    },
+    "ukraine": {
+      "jury_ranks": [
+        13,
+        22,
+        16,
+        11,
+        26
+      ],
+      "jury_rank": 17,
+      "televote_rank": 21
+    },
+    "norway": {
+      "jury_ranks": [
+        6,
+        8,
+        7,
+        6,
+        7
+      ],
+      "jury_rank": 7,
+      "televote_rank": 17
+    },
+    "slovenia": {
+      "jury_ranks": [
+        23,
+        23,
+        18,
+        20,
+        19
+      ],
+      "jury_rank": 23,
+      "televote_rank": 24
+    },
+    "estonia": {
+      "jury_ranks": [
+        19,
+        21,
+        19,
+        15,
+        25
+      ],
+      "jury_rank": 22,
+      "televote_rank": 14
+    },
+    "israel": {
+      "jury_ranks": [
+        7,
+        6,
+        8,
+        4,
+        4
+      ],
+      "jury_rank": 5,
+      "televote_rank": 3
+    },
+    "australia": {
+      "jury_ranks": [
+        9,
+        10,
+        10,
+        8,
+        9
+      ],
+      "jury_rank": 8,
+      "televote_rank": 5
+    },
+    "denmark": {
+      "jury_ranks": [
+        11,
+        12,
+        26,
+        13,
+        24
+      ],
+      "jury_rank": 15,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        25,
+        19,
+        20,
+        26,
+        23
+      ],
+      "jury_rank": 26,
+      "televote_rank": 19
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        4,
+        7,
+        5,
+        7,
+        6
+      ],
+      "jury_rank": 6,
+      "televote_rank": 8
+    },
+    "cyprus": {
+      "jury_ranks": [
+        2,
+        1,
+        2,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 2
+    },
+    "ireland": {
+      "jury_ranks": [
+        8,
+        14,
+        13,
+        17,
+        12
+      ],
+      "jury_rank": 14,
+      "televote_rank": 11
+    },
+    "albania": {
+      "jury_ranks": [
+        24,
+        18,
+        4,
+        21,
+        22
+      ],
+      "jury_rank": 11,
+      "televote_rank": 18
+    },
+    "hungary": {
+      "jury_ranks": [
+        17,
+        26,
+        25,
+        23,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 23
+    },
+    "sweden": {
+      "jury_ranks": [
+        5,
+        5,
+        6,
+        5,
+        5
+      ],
+      "jury_rank": 4,
+      "televote_rank": 12
+    },
+    "lithuania": {
+      "jury_ranks": [
+        12,
+        13,
+        11,
+        12,
+        11
+      ],
+      "jury_rank": 13,
+      "televote_rank": 6
+    },
+    "austria": {
+      "jury_ranks": [
+        18,
+        9,
+        12,
+        9,
+        8
+      ],
+      "jury_rank": 10,
+      "televote_rank": 15
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        20,
+        4,
+        23,
+        14,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 4
+    },
+    "finland": {
+      "jury_ranks": [
+        14,
+        17,
+        21,
+        25,
+        13
+      ],
+      "jury_rank": 18,
+      "televote_rank": 16
+    },
+    "portugal": {
+      "jury_ranks": [
+        26,
+        25,
+        17,
+        22,
+        20
+      ],
+      "jury_rank": 24,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        22,
+        16,
+        9,
+        18,
+        16
+      ],
+      "jury_rank": 16,
+      "televote_rank": 10
+    },
+    "spain": {
+      "jury_ranks": [
+        21,
+        24,
+        14,
+        19,
+        18
+      ],
+      "jury_rank": 21,
+      "televote_rank": 25
+    },
+    "italy": {
+      "jury_ranks": [
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 1
+    },
+    "france": {
+      "jury_ranks": [
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "jury_rank": 3,
+      "televote_rank": 13
+    },
+    "germany": {
+      "jury_ranks": [
+        10,
+        11,
+        15,
+        10,
+        15
+      ],
+      "jury_rank": 12,
+      "televote_rank": 7
+    }
+  },
+  "poland": {
+    "the-netherlands": {
+      "jury_ranks": [
+        5,
+        2,
+        3,
+        3,
+        8
+      ],
+      "jury_rank": 3,
+      "televote_rank": 20
+    },
+    "moldova": {
+      "jury_ranks": [
+        26,
+        26,
+        26,
+        26,
+        26
+      ],
+      "jury_rank": 26,
+      "televote_rank": 17
+    },
+    "ukraine": {
+      "jury_ranks": [
+        16,
+        19,
+        14,
+        16,
+        12
+      ],
+      "jury_rank": 16,
+      "televote_rank": 1
+    },
+    "norway": {
+      "jury_ranks": [
+        11,
+        22,
+        16,
+        17,
+        6
+      ],
+      "jury_rank": 12,
+      "televote_rank": 11
+    },
+    "slovenia": {
+      "jury_ranks": [
+        13,
+        15,
+        19,
+        12,
+        24
+      ],
+      "jury_rank": 17,
+      "televote_rank": 16
+    },
+    "estonia": {
+      "jury_ranks": [
+        15,
+        11,
+        10,
+        13,
+        23
+      ],
+      "jury_rank": 14,
+      "televote_rank": 12
+    },
+    "israel": {
+      "jury_ranks": [
+        19,
+        12,
+        24,
+        20,
+        25
+      ],
+      "jury_rank": 19,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        9,
+        5,
+        11,
+        7,
+        7
+      ],
+      "jury_rank": 7,
+      "televote_rank": 19
+    },
+    "denmark": {
+      "jury_ranks": [
+        21,
+        25,
+        23,
+        21,
+        17
+      ],
+      "jury_rank": 23,
+      "televote_rank": 5
+    },
+    "serbia": {
+      "jury_ranks": [
+        25,
+        20,
+        25,
+        25,
+        18
+      ],
+      "jury_rank": 24,
+      "televote_rank": 23
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        14,
+        23,
+        18,
+        23,
+        16
+      ],
+      "jury_rank": 18,
+      "televote_rank": 7
+    },
+    "cyprus": {
+      "jury_ranks": [
+        18,
+        8,
+        15,
+        14,
+        15
+      ],
+      "jury_rank": 13,
+      "televote_rank": 3
+    },
+    "ireland": {
+      "jury_ranks": [
+        7,
+        9,
+        7,
+        5,
+        9
+      ],
+      "jury_rank": 6,
+      "televote_rank": 9
+    },
+    "albania": {
+      "jury_ranks": [
+        2,
+        10,
+        2,
+        6,
+        4
+      ],
+      "jury_rank": 4,
+      "televote_rank": 25
+    },
+    "hungary": {
+      "jury_ranks": [
+        12,
+        7,
+        5,
+        8,
+        10
+      ],
+      "jury_rank": 8,
+      "televote_rank": 4
+    },
+    "sweden": {
+      "jury_ranks": [
+        6,
+        4,
+        4,
+        4,
+        3
+      ],
+      "jury_rank": 5,
+      "televote_rank": 13
+    },
+    "lithuania": {
+      "jury_ranks": [
+        4,
+        16,
+        9,
+        11,
+        13
+      ],
+      "jury_rank": 10,
+      "televote_rank": 14
+    },
+    "austria": {
+      "jury_ranks": [
+        3,
+        1,
+        1,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 15
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        10,
+        6,
+        8,
+        18,
+        5
+      ],
+      "jury_rank": 9,
+      "televote_rank": 18
+    },
+    "finland": {
+      "jury_ranks": [
+        20,
+        24,
+        21,
+        19,
+        20
+      ],
+      "jury_rank": 22,
+      "televote_rank": 22
+    },
+    "portugal": {
+      "jury_ranks": [
+        17,
+        13,
+        13,
+        10,
+        19
+      ],
+      "jury_rank": 15,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        23,
+        21,
+        22,
+        24,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 21
+    },
+    "spain": {
+      "jury_ranks": [
+        8,
+        14,
+        12,
+        9,
+        11
+      ],
+      "jury_rank": 11,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        24,
+        18,
+        17,
+        15,
+        22
+      ],
+      "jury_rank": 21,
+      "televote_rank": 6
+    },
+    "france": {
+      "jury_ranks": [
+        22,
+        17,
+        20,
+        22,
+        14
+      ],
+      "jury_rank": 20,
+      "televote_rank": 8
+    },
+    "germany": {
+      "jury_ranks": [
+        1,
+        3,
+        6,
+        2,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 10
+    }
+  },
+  "romania": {
+    "the-netherlands": {
+      "jury_ranks": [
+        2,
+        6,
+        6,
+        1,
+        6
+      ],
+      "jury_rank": 3,
+      "televote_rank": 16
+    },
+    "moldova": {
+      "jury_ranks": [
+        6,
+        15,
+        5,
+        9,
+        1
+      ],
+      "jury_rank": 4,
+      "televote_rank": 1
+    },
+    "ukraine": {
+      "jury_ranks": [
+        17,
+        18,
+        21,
+        21,
+        17
+      ],
+      "jury_rank": 20,
+      "televote_rank": 21
+    },
+    "norway": {
+      "jury_ranks": [
+        14,
+        13,
+        11,
+        13,
+        13
+      ],
+      "jury_rank": 14,
+      "televote_rank": 17
+    },
+    "slovenia": {
+      "jury_ranks": [
+        13,
+        14,
+        14,
+        2,
+        11
+      ],
+      "jury_rank": 10,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        8,
+        2,
+        7,
+        5,
+        14
+      ],
+      "jury_rank": 8,
+      "televote_rank": 12
+    },
+    "israel": {
+      "jury_ranks": [
+        9,
+        10,
+        13,
+        25,
+        8
+      ],
+      "jury_rank": 11,
+      "televote_rank": 3
+    },
+    "australia": {
+      "jury_ranks": [
+        12,
+        11,
+        8,
+        4,
+        7
+      ],
+      "jury_rank": 9,
+      "televote_rank": 14
+    },
+    "denmark": {
+      "jury_ranks": [
+        26,
+        26,
+        25,
+        26,
+        23
+      ],
+      "jury_rank": 26,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        22,
+        21,
+        17,
+        18,
+        25
+      ],
+      "jury_rank": 23,
+      "televote_rank": 15
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        23,
+        24,
+        23,
+        14,
+        22
+      ],
+      "jury_rank": 22,
+      "televote_rank": 8
+    },
+    "cyprus": {
+      "jury_ranks": [
+        3,
+        8,
+        12,
+        7,
+        3
+      ],
+      "jury_rank": 6,
+      "televote_rank": 4
+    },
+    "ireland": {
+      "jury_ranks": [
+        15,
+        25,
+        9,
+        24,
+        9
+      ],
+      "jury_rank": 15,
+      "televote_rank": 10
+    },
+    "albania": {
+      "jury_ranks": [
+        11,
+        7,
+        24,
+        10,
+        15
+      ],
+      "jury_rank": 13,
+      "televote_rank": 13
+    },
+    "hungary": {
+      "jury_ranks": [
+        24,
+        20,
+        20,
+        16,
+        26
+      ],
+      "jury_rank": 24,
+      "televote_rank": 2
+    },
+    "sweden": {
+      "jury_ranks": [
+        19,
+        12,
+        22,
+        15,
+        16
+      ],
+      "jury_rank": 17,
+      "televote_rank": 19
+    },
+    "lithuania": {
+      "jury_ranks": [
+        5,
+        5,
+        3,
+        6,
+        12
+      ],
+      "jury_rank": 5,
+      "televote_rank": 18
+    },
+    "austria": {
+      "jury_ranks": [
+        4,
+        1,
+        1,
+        3,
+        4
+      ],
+      "jury_rank": 1,
+      "televote_rank": 20
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        16,
+        19,
+        15,
+        23,
+        10
+      ],
+      "jury_rank": 16,
+      "televote_rank": 6
+    },
+    "finland": {
+      "jury_ranks": [
+        20,
+        16,
+        18,
+        11,
+        24
+      ],
+      "jury_rank": 18,
+      "televote_rank": 24
+    },
+    "portugal": {
+      "jury_ranks": [
+        21,
+        17,
+        16,
+        20,
+        20
+      ],
+      "jury_rank": 19,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        18,
+        22,
+        19,
+        19,
+        19
+      ],
+      "jury_rank": 21,
+      "televote_rank": 22
+    },
+    "spain": {
+      "jury_ranks": [
+        1,
+        3,
+        2,
+        8,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 23
+    },
+    "italy": {
+      "jury_ranks": [
+        10,
+        9,
+        10,
+        12,
+        18
+      ],
+      "jury_rank": 12,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        25,
+        23,
+        26,
+        22,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 11
+    },
+    "germany": {
+      "jury_ranks": [
+        7,
+        4,
+        4,
+        17,
+        5
+      ],
+      "jury_rank": 7,
+      "televote_rank": 7
+    }
+  },
+  "russia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        20,
+        19,
+        19,
+        23,
+        25
+      ],
+      "jury_rank": 22,
+      "televote_rank": 17
+    },
+    "moldova": {
+      "jury_ranks": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    },
+    "ukraine": {
+      "jury_ranks": [
+        13,
+        13,
+        15,
+        14,
+        16
+      ],
+      "jury_rank": 15,
+      "televote_rank": 3
+    },
+    "norway": {
+      "jury_ranks": [
+        11,
+        15,
+        11,
+        11,
+        23
+      ],
+      "jury_rank": 13,
+      "televote_rank": 6
+    },
+    "slovenia": {
+      "jury_ranks": [
+        14,
+        21,
+        23,
+        25,
+        18
+      ],
+      "jury_rank": 20,
+      "televote_rank": 22
+    },
+    "estonia": {
+      "jury_ranks": [
+        4,
+        6,
+        4,
+        8,
+        4
+      ],
+      "jury_rank": 5,
+      "televote_rank": 8
+    },
+    "israel": {
+      "jury_ranks": [
+        3,
+        3,
+        6,
+        3,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        5,
+        5,
+        5,
+        5,
+        9
+      ],
+      "jury_rank": 6,
+      "televote_rank": 21
+    },
+    "denmark": {
+      "jury_ranks": [
+        12,
+        11,
+        20,
+        16,
+        11
+      ],
+      "jury_rank": 14,
+      "televote_rank": 4
+    },
+    "serbia": {
+      "jury_ranks": [
+        8,
+        14,
+        16,
+        12,
+        14
+      ],
+      "jury_rank": 11,
+      "televote_rank": 12
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        15,
+        17,
+        25,
+        20,
+        15
+      ],
+      "jury_rank": 18,
+      "televote_rank": 9
+    },
+    "cyprus": {
+      "jury_ranks": [
+        10,
+        4,
+        3,
+        4,
+        2
+      ],
+      "jury_rank": 4,
+      "televote_rank": 7
+    },
+    "ireland": {
+      "jury_ranks": [
+        18,
+        25,
+        22,
+        24,
+        26
+      ],
+      "jury_rank": 25,
+      "televote_rank": 16
+    },
+    "albania": {
+      "jury_ranks": [
+        24,
+        23,
+        14,
+        15,
+        24
+      ],
+      "jury_rank": 19,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        16,
+        18,
+        9,
+        22,
+        19
+      ],
+      "jury_rank": 16,
+      "televote_rank": 11
+    },
+    "sweden": {
+      "jury_ranks": [
+        2,
+        2,
+        1,
+        2,
+        3
+      ],
+      "jury_rank": 2,
+      "televote_rank": 10
+    },
+    "lithuania": {
+      "jury_ranks": [
+        9,
+        8,
+        8,
+        9,
+        6
+      ],
+      "jury_rank": 8,
+      "televote_rank": 18
+    },
+    "austria": {
+      "jury_ranks": [
+        19,
+        12,
+        10,
+        13,
+        12
+      ],
+      "jury_rank": 12,
+      "televote_rank": 20
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        23,
+        16,
+        17,
+        17,
+        13
+      ],
+      "jury_rank": 17,
+      "televote_rank": 14
+    },
+    "finland": {
+      "jury_ranks": [
+        22,
+        20,
+        21,
+        21,
+        22
+      ],
+      "jury_rank": 23,
+      "televote_rank": 19
+    },
+    "portugal": {
+      "jury_ranks": [
+        26,
+        24,
+        26,
+        26,
+        20
+      ],
+      "jury_rank": 26,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        25,
+        22,
+        18,
+        19,
+        17
+      ],
+      "jury_rank": 21,
+      "televote_rank": 24
+    },
+    "spain": {
+      "jury_ranks": [
+        21,
+        26,
+        24,
+        18,
+        21
+      ],
+      "jury_rank": 24,
+      "televote_rank": 25
+    },
+    "italy": {
+      "jury_ranks": [
+        17,
+        10,
+        13,
+        10,
+        8
+      ],
+      "jury_rank": 10,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        7,
+        9,
+        12,
+        7,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 15
+    },
+    "germany": {
+      "jury_ranks": [
+        6,
+        7,
+        7,
+        6,
+        7
+      ],
+      "jury_rank": 7,
+      "televote_rank": 13
+    }
+  },
+  "azerbaijan": {
+    "the-netherlands": {
+      "jury_ranks": [
+        23,
+        25,
+        16,
+        26,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 14
+    },
+    "moldova": {
+      "jury_ranks": [
+        4,
+        5,
+        6,
+        3,
+        2
+      ],
+      "jury_rank": 4,
+      "televote_rank": 7
+    },
+    "ukraine": {
+      "jury_ranks": [
+        9,
+        7,
+        2,
+        8,
+        5
+      ],
+      "jury_rank": 5,
+      "televote_rank": 3
+    },
+    "norway": {
+      "jury_ranks": [
+        17,
+        6,
+        25,
+        16,
+        18
+      ],
+      "jury_rank": 13,
+      "televote_rank": 4
+    },
+    "slovenia": {
+      "jury_ranks": [
+        7,
+        11,
+        15,
+        13,
+        24
+      ],
+      "jury_rank": 11,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        19,
+        14,
+        4,
+        6,
+        7
+      ],
+      "jury_rank": 8,
+      "televote_rank": 11
+    },
+    "israel": {
+      "jury_ranks": [
+        11,
+        10,
+        12,
+        12,
+        12
+      ],
+      "jury_rank": 10,
+      "televote_rank": 1
+    },
+    "australia": {
+      "jury_ranks": [
+        26,
+        9,
+        22,
+        21,
+        13
+      ],
+      "jury_rank": 19,
+      "televote_rank": 23
+    },
+    "denmark": {
+      "jury_ranks": [
+        25,
+        17,
+        18,
+        25,
+        22
+      ],
+      "jury_rank": 24,
+      "televote_rank": 13
+    },
+    "serbia": {
+      "jury_ranks": [
+        5,
+        1,
+        3,
+        1,
+        4
+      ],
+      "jury_rank": 2,
+      "televote_rank": 21
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        13,
+        8,
+        23,
+        18,
+        17
+      ],
+      "jury_rank": 16,
+      "televote_rank": 5
+    },
+    "cyprus": {
+      "jury_ranks": [
+        3,
+        24,
+        5,
+        7,
+        9
+      ],
+      "jury_rank": 7,
+      "televote_rank": 2
+    },
+    "ireland": {
+      "jury_ranks": [
+        22,
+        22,
+        24,
+        22,
+        25
+      ],
+      "jury_rank": 26,
+      "televote_rank": 20
+    },
+    "albania": {
+      "jury_ranks": [
+        1,
+        2,
+        1,
+        4,
+        3
+      ],
+      "jury_rank": 1,
+      "televote_rank": 19
+    },
+    "hungary": {
+      "jury_ranks": [
+        2,
+        3,
+        7,
+        2,
+        1
+      ],
+      "jury_rank": 3,
+      "televote_rank": 17
+    },
+    "sweden": {
+      "jury_ranks": [
+        8,
+        21,
+        17,
+        19,
+        15
+      ],
+      "jury_rank": 17,
+      "televote_rank": 9
+    },
+    "lithuania": {
+      "jury_ranks": [
+        24,
+        13,
+        20,
+        11,
+        20
+      ],
+      "jury_rank": 20,
+      "televote_rank": 16
+    },
+    "austria": {
+      "jury_ranks": [
+        14,
+        12,
+        11,
+        20,
+        8
+      ],
+      "jury_rank": 12,
+      "televote_rank": 15
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        6,
+        4,
+        8,
+        10,
+        6
+      ],
+      "jury_rank": 6,
+      "televote_rank": 10
+    },
+    "finland": {
+      "jury_ranks": [
+        12,
+        18,
+        14,
+        9,
+        23
+      ],
+      "jury_rank": 15,
+      "televote_rank": 22
+    },
+    "portugal": {
+      "jury_ranks": [
+        16,
+        26,
+        26,
+        17,
+        26
+      ],
+      "jury_rank": 23,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        20,
+        19,
+        19,
+        23,
+        16
+      ],
+      "jury_rank": 22,
+      "televote_rank": 18
+    },
+    "spain": {
+      "jury_ranks": [
+        18,
+        15,
+        10,
+        14,
+        11
+      ],
+      "jury_rank": 14,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        15,
+        23,
+        9,
+        24,
+        14
+      ],
+      "jury_rank": 18,
+      "televote_rank": 6
+    },
+    "france": {
+      "jury_ranks": [
+        21,
+        20,
+        21,
+        15,
+        19
+      ],
+      "jury_rank": 21,
+      "televote_rank": 12
+    },
+    "germany": {
+      "jury_ranks": [
+        10,
+        16,
+        13,
+        5,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 8
+    }
+  },
+  "ukraine": {
+    "the-netherlands": {
+      "jury_ranks": [
+        1,
+        13,
+        4,
+        1,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 16
+    },
+    "moldova": {
+      "jury_ranks": [
+        11,
+        23,
+        12,
+        15,
+        25
+      ],
+      "jury_rank": 19,
+      "televote_rank": 5
+    },
+    "norway": {
+      "jury_ranks": [
+        10,
+        3,
+        13,
+        14,
+        21
+      ],
+      "jury_rank": 12,
+      "televote_rank": 11
+    },
+    "slovenia": {
+      "jury_ranks": [
+        2,
+        9,
+        14,
+        3,
+        16
+      ],
+      "jury_rank": 6,
+      "televote_rank": 17
+    },
+    "estonia": {
+      "jury_ranks": [
+        12,
+        2,
+        16,
+        11,
+        18
+      ],
+      "jury_rank": 10,
+      "televote_rank": 8
+    },
+    "israel": {
+      "jury_ranks": [
+        3,
+        1,
+        3,
+        8,
+        4
+      ],
+      "jury_rank": 2,
+      "televote_rank": 1
+    },
+    "australia": {
+      "jury_ranks": [
+        5,
+        10,
+        19,
+        5,
+        14
+      ],
+      "jury_rank": 9,
+      "televote_rank": 19
+    },
+    "denmark": {
+      "jury_ranks": [
+        15,
+        18,
+        8,
+        13,
+        2
+      ],
+      "jury_rank": 8,
+      "televote_rank": 3
+    },
+    "serbia": {
+      "jury_ranks": [
+        13,
+        12,
+        17,
+        22,
+        19
+      ],
+      "jury_rank": 22,
+      "televote_rank": 21
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        8,
+        6,
+        9,
+        4,
+        22
+      ],
+      "jury_rank": 7,
+      "televote_rank": 2
+    },
+    "cyprus": {
+      "jury_ranks": [
+        7,
+        8,
+        20,
+        10,
+        20
+      ],
+      "jury_rank": 13,
+      "televote_rank": 7
+    },
+    "ireland": {
+      "jury_ranks": [
+        18,
+        14,
+        15,
+        21,
+        12
+      ],
+      "jury_rank": 21,
+      "televote_rank": 20
+    },
+    "albania": {
+      "jury_ranks": [
+        4,
+        15,
+        6,
+        18,
+        15
+      ],
+      "jury_rank": 11,
+      "televote_rank": 18
+    },
+    "hungary": {
+      "jury_ranks": [
+        25,
+        11,
+        24,
+        7,
+        13
+      ],
+      "jury_rank": 15,
+      "televote_rank": 10
+    },
+    "sweden": {
+      "jury_ranks": [
+        9,
+        7,
+        2,
+        6,
+        11
+      ],
+      "jury_rank": 5,
+      "televote_rank": 15
+    },
+    "lithuania": {
+      "jury_ranks": [
+        14,
+        22,
+        11,
+        16,
+        17
+      ],
+      "jury_rank": 20,
+      "televote_rank": 9
+    },
+    "austria": {
+      "jury_ranks": [
+        6,
+        4,
+        5,
+        12,
+        3
+      ],
+      "jury_rank": 4,
+      "televote_rank": 14
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        23,
+        17,
+        10,
+        19,
+        10
+      ],
+      "jury_rank": 17,
+      "televote_rank": 13
+    },
+    "finland": {
+      "jury_ranks": [
+        16,
+        24,
+        22,
+        20,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 23
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        21,
+        18,
+        24,
+        9
+      ],
+      "jury_rank": 23,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        21,
+        20,
+        23,
+        9,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 22
+    },
+    "spain": {
+      "jury_ranks": [
+        17,
+        16,
+        25,
+        23,
+        7
+      ],
+      "jury_rank": 18,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        19,
+        25,
+        21,
+        25,
+        6
+      ],
+      "jury_rank": 16,
+      "televote_rank": 6
+    },
+    "france": {
+      "jury_ranks": [
+        22,
+        5,
+        1,
+        2,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 4
+    },
+    "germany": {
+      "jury_ranks": [
+        20,
+        19,
+        7,
+        17,
+        8
+      ],
+      "jury_rank": 14,
+      "televote_rank": 12
+    }
+  },
+  "albania": {
+    "the-netherlands": {
+      "jury_ranks": [
+        24,
+        18,
+        25,
+        25,
+        13
+      ],
+      "jury_rank": 22,
+      "televote_rank": 12
+    },
+    "moldova": {
+      "jury_ranks": [
+        10,
+        7,
+        8,
+        7,
+        10
+      ],
+      "jury_rank": 9,
+      "televote_rank": 22
+    },
+    "ukraine": {
+      "jury_ranks": [
+        20,
+        16,
+        24,
+        16,
+        23
+      ],
+      "jury_rank": 23,
+      "televote_rank": 18
+    },
+    "norway": {
+      "jury_ranks": [
+        23,
+        19,
+        22,
+        18,
+        22
+      ],
+      "jury_rank": 25,
+      "televote_rank": 13
+    },
+    "slovenia": {
+      "jury_ranks": [
+        21,
+        17,
+        17,
+        14,
+        16
+      ],
+      "jury_rank": 18,
+      "televote_rank": 19
+    },
+    "estonia": {
+      "jury_ranks": [
+        17,
+        21,
+        12,
+        12,
+        24
+      ],
+      "jury_rank": 13,
+      "televote_rank": 7
+    },
+    "israel": {
+      "jury_ranks": [
+        6,
+        8,
+        4,
+        6,
+        3
+      ],
+      "jury_rank": 6,
+      "televote_rank": 10
+    },
+    "australia": {
+      "jury_ranks": [
+        14,
+        23,
+        19,
+        22,
+        25
+      ],
+      "jury_rank": 24,
+      "televote_rank": 14
+    },
+    "denmark": {
+      "jury_ranks": [
+        19,
+        12,
+        20,
+        21,
+        21
+      ],
+      "jury_rank": 21,
+      "televote_rank": 20
+    },
+    "serbia": {
+      "jury_ranks": [
+        8,
+        6,
+        10,
+        9,
+        9
+      ],
+      "jury_rank": 8,
+      "televote_rank": 16
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        9,
+        10,
+        9,
+        10,
+        8
+      ],
+      "jury_rank": 10,
+      "televote_rank": 17
+    },
+    "cyprus": {
+      "jury_ranks": [
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 2
+    },
+    "ireland": {
+      "jury_ranks": [
+        25,
+        11,
+        18,
+        11,
+        15
+      ],
+      "jury_rank": 12,
+      "televote_rank": 4
+    },
+    "hungary": {
+      "jury_ranks": [
+        22,
+        24,
+        16,
+        24,
+        11
+      ],
+      "jury_rank": 19,
+      "televote_rank": 23
+    },
+    "sweden": {
+      "jury_ranks": [
+        7,
+        9,
+        7,
+        8,
+        7
+      ],
+      "jury_rank": 7,
+      "televote_rank": 21
+    },
+    "lithuania": {
+      "jury_ranks": [
+        18,
+        20,
+        14,
+        13,
+        17
+      ],
+      "jury_rank": 16,
+      "televote_rank": 15
+    },
+    "austria": {
+      "jury_ranks": [
+        15,
+        15,
+        11,
+        17,
+        12
+      ],
+      "jury_rank": 11,
+      "televote_rank": 9
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        5,
+        4,
+        5,
+        3,
+        4
+      ],
+      "jury_rank": 3,
+      "televote_rank": 5
+    },
+    "finland": {
+      "jury_ranks": [
+        12,
+        25,
+        15,
+        23,
+        20
+      ],
+      "jury_rank": 20,
+      "televote_rank": 11
+    },
+    "portugal": {
+      "jury_ranks": [
+        16,
+        22,
+        13,
+        19,
+        14
+      ],
+      "jury_rank": 17,
+      "televote_rank": 24
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        11,
+        14,
+        21,
+        20,
+        19
+      ],
+      "jury_rank": 15,
+      "televote_rank": 8
+    },
+    "spain": {
+      "jury_ranks": [
+        13,
+        13,
+        23,
+        15,
+        18
+      ],
+      "jury_rank": 14,
+      "televote_rank": 25
+    },
+    "italy": {
+      "jury_ranks": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    },
+    "france": {
+      "jury_ranks": [
+        3,
+        3,
+        6,
+        5,
+        5
+      ],
+      "jury_rank": 4,
+      "televote_rank": 6
+    },
+    "germany": {
+      "jury_ranks": [
+        4,
+        5,
+        3,
+        4,
+        6
+      ],
+      "jury_rank": 5,
+      "televote_rank": 3
+    }
+  },
+  "belarus": {
+    "the-netherlands": {
+      "jury_ranks": [
+        10,
+        11,
+        11,
+        21,
+        6
+      ],
+      "jury_rank": 13,
+      "televote_rank": 19
+    },
+    "moldova": {
+      "jury_ranks": [
+        21,
+        20,
+        14,
+        22,
+        20
+      ],
+      "jury_rank": 22,
+      "televote_rank": 5
+    },
+    "ukraine": {
+      "jury_ranks": [
+        14,
+        18,
+        8,
+        19,
+        15
+      ],
+      "jury_rank": 15,
+      "televote_rank": 1
+    },
+    "norway": {
+      "jury_ranks": [
+        2,
+        6,
+        4,
+        4,
+        3
+      ],
+      "jury_rank": 3,
+      "televote_rank": 2
+    },
+    "slovenia": {
+      "jury_ranks": [
+        8,
+        19,
+        3,
+        7,
+        12
+      ],
+      "jury_rank": 7,
+      "televote_rank": 18
+    },
+    "estonia": {
+      "jury_ranks": [
+        16,
+        17,
+        9,
+        8,
+        11
+      ],
+      "jury_rank": 14,
+      "televote_rank": 16
+    },
+    "israel": {
+      "jury_ranks": [
+        23,
+        16,
+        10,
+        14,
+        23
+      ],
+      "jury_rank": 17,
+      "televote_rank": 3
+    },
+    "australia": {
+      "jury_ranks": [
+        6,
+        8,
+        22,
+        24,
+        4
+      ],
+      "jury_rank": 9,
+      "televote_rank": 21
+    },
+    "denmark": {
+      "jury_ranks": [
+        12,
+        14,
+        6,
+        3,
+        13
+      ],
+      "jury_rank": 8,
+      "televote_rank": 4
+    },
+    "serbia": {
+      "jury_ranks": [
+        22,
+        23,
+        16,
+        17,
+        22
+      ],
+      "jury_rank": 23,
+      "televote_rank": 20
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        13,
+        2,
+        7,
+        9,
+        16
+      ],
+      "jury_rank": 5,
+      "televote_rank": 6
+    },
+    "cyprus": {
+      "jury_ranks": [
+        1,
+        3,
+        1,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 8
+    },
+    "ireland": {
+      "jury_ranks": [
+        5,
+        10,
+        19,
+        20,
+        9
+      ],
+      "jury_rank": 12,
+      "televote_rank": 17
+    },
+    "albania": {
+      "jury_ranks": [
+        4,
+        7,
+        5,
+        2,
+        2
+      ],
+      "jury_rank": 4,
+      "televote_rank": 24
+    },
+    "hungary": {
+      "jury_ranks": [
+        26,
+        26,
+        23,
+        26,
+        25
+      ],
+      "jury_rank": 26,
+      "televote_rank": 9
+    },
+    "sweden": {
+      "jury_ranks": [
+        9,
+        9,
+        12,
+        11,
+        7
+      ],
+      "jury_rank": 10,
+      "televote_rank": 13
+    },
+    "lithuania": {
+      "jury_ranks": [
+        7,
+        5,
+        17,
+        6,
+        8
+      ],
+      "jury_rank": 6,
+      "televote_rank": 11
+    },
+    "austria": {
+      "jury_ranks": [
+        3,
+        1,
+        2,
+        5,
+        5
+      ],
+      "jury_rank": 2,
+      "televote_rank": 12
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        20,
+        13,
+        13,
+        25,
+        21
+      ],
+      "jury_rank": 20,
+      "televote_rank": 10
+    },
+    "finland": {
+      "jury_ranks": [
+        25,
+        22,
+        26,
+        23,
+        26
+      ],
+      "jury_rank": 25,
+      "televote_rank": 23
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        25,
+        24,
+        16,
+        24
+      ],
+      "jury_rank": 24,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        11,
+        21,
+        20,
+        12,
+        14
+      ],
+      "jury_rank": 16,
+      "televote_rank": 22
+    },
+    "spain": {
+      "jury_ranks": [
+        15,
+        24,
+        18,
+        13,
+        18
+      ],
+      "jury_rank": 21,
+      "televote_rank": 26
+    },
+    "italy": {
+      "jury_ranks": [
+        19,
+        12,
+        25,
+        15,
+        19
+      ],
+      "jury_rank": 19,
+      "televote_rank": 7
+    },
+    "france": {
+      "jury_ranks": [
+        18,
+        4,
+        21,
+        10,
+        10
+      ],
+      "jury_rank": 11,
+      "televote_rank": 15
+    },
+    "germany": {
+      "jury_ranks": [
+        17,
+        15,
+        15,
+        18,
+        17
+      ],
+      "jury_rank": 18,
+      "televote_rank": 14
+    }
+  },
+  "bulgaria": {
+    "the-netherlands": {
+      "jury_ranks": [
+        5,
+        12,
+        17,
+        14,
+        11
+      ],
+      "jury_rank": 12,
+      "televote_rank": 12
+    },
+    "moldova": {
+      "jury_ranks": [
+        15,
+        10,
+        24,
+        23,
+        14
+      ],
+      "jury_rank": 18,
+      "televote_rank": 3
+    },
+    "ukraine": {
+      "jury_ranks": [
+        17,
+        19,
+        8,
+        13,
+        15
+      ],
+      "jury_rank": 14,
+      "televote_rank": 10
+    },
+    "norway": {
+      "jury_ranks": [
+        12,
+        13,
+        11,
+        6,
+        10
+      ],
+      "jury_rank": 11,
+      "televote_rank": 15
+    },
+    "slovenia": {
+      "jury_ranks": [
+        8,
+        16,
+        13,
+        24,
+        17
+      ],
+      "jury_rank": 15,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        18,
+        20,
+        23,
+        21,
+        21
+      ],
+      "jury_rank": 25,
+      "televote_rank": 9
+    },
+    "israel": {
+      "jury_ranks": [
+        6,
+        8,
+        10,
+        7,
+        4
+      ],
+      "jury_rank": 7,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        11,
+        18,
+        21,
+        19,
+        25
+      ],
+      "jury_rank": 21,
+      "televote_rank": 18
+    },
+    "denmark": {
+      "jury_ranks": [
+        24,
+        15,
+        22,
+        18,
+        20
+      ],
+      "jury_rank": 23,
+      "televote_rank": 14
+    },
+    "serbia": {
+      "jury_ranks": [
+        20,
+        11,
+        19,
+        22,
+        18
+      ],
+      "jury_rank": 19,
+      "televote_rank": 4
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        3,
+        5,
+        5,
+        5,
+        2
+      ],
+      "jury_rank": 3,
+      "televote_rank": 8
+    },
+    "cyprus": {
+      "jury_ranks": [
+        2,
+        6,
+        16,
+        17,
+        8
+      ],
+      "jury_rank": 8,
+      "televote_rank": 1
+    },
+    "ireland": {
+      "jury_ranks": [
+        21,
+        24,
+        6,
+        4,
+        13
+      ],
+      "jury_rank": 10,
+      "televote_rank": 21
+    },
+    "albania": {
+      "jury_ranks": [
+        16,
+        1,
+        4,
+        9,
+        3
+      ],
+      "jury_rank": 4,
+      "televote_rank": 13
+    },
+    "hungary": {
+      "jury_ranks": [
+        25,
+        9,
+        25,
+        25,
+        23
+      ],
+      "jury_rank": 20,
+      "televote_rank": 6
+    },
+    "sweden": {
+      "jury_ranks": [
+        4,
+        14,
+        18,
+        8,
+        7
+      ],
+      "jury_rank": 9,
+      "televote_rank": 20
+    },
+    "lithuania": {
+      "jury_ranks": [
+        14,
+        3,
+        1,
+        1,
+        6
+      ],
+      "jury_rank": 2,
+      "televote_rank": 19
+    },
+    "austria": {
+      "jury_ranks": [
+        9,
+        2,
+        2,
+        2,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 7
+    },
+    "finland": {
+      "jury_ranks": [
+        10,
+        17,
+        20,
+        11,
+        22
+      ],
+      "jury_rank": 17,
+      "televote_rank": 16
+    },
+    "portugal": {
+      "jury_ranks": [
+        22,
+        22,
+        14,
+        15,
+        16
+      ],
+      "jury_rank": 22,
+      "televote_rank": 24
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        23,
+        23,
+        7,
+        16,
+        19
+      ],
+      "jury_rank": 16,
+      "televote_rank": 23
+    },
+    "spain": {
+      "jury_ranks": [
+        13,
+        21,
+        9,
+        12,
+        12
+      ],
+      "jury_rank": 13,
+      "televote_rank": 22
+    },
+    "italy": {
+      "jury_ranks": [
+        19,
+        25,
+        15,
+        20,
+        24
+      ],
+      "jury_rank": 24,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        1,
+        7,
+        12,
+        10,
+        5
+      ],
+      "jury_rank": 6,
+      "televote_rank": 17
+    },
+    "germany": {
+      "jury_ranks": [
+        7,
+        4,
+        3,
+        3,
+        9
+      ],
+      "jury_rank": 5,
+      "televote_rank": 11
+    }
+  },
+  "moldova": {
+    "the-netherlands": {
+      "jury_ranks": [
+        7,
+        5,
+        12,
+        15,
+        7
+      ],
+      "jury_rank": 10,
+      "televote_rank": 16
+    },
+    "ukraine": {
+      "jury_ranks": [
+        5,
+        3,
+        8,
+        11,
+        8
+      ],
+      "jury_rank": 6,
+      "televote_rank": 2
+    },
+    "norway": {
+      "jury_ranks": [
+        12,
+        2,
+        7,
+        17,
+        11
+      ],
+      "jury_rank": 9,
+      "televote_rank": 6
+    },
+    "slovenia": {
+      "jury_ranks": [
+        16,
+        18,
+        9,
+        9,
+        17
+      ],
+      "jury_rank": 15,
+      "televote_rank": 22
+    },
+    "estonia": {
+      "jury_ranks": [
+        1,
+        1,
+        4,
+        16,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 10
+    },
+    "israel": {
+      "jury_ranks": [
+        24,
+        4,
+        3,
+        2,
+        3
+      ],
+      "jury_rank": 2,
+      "televote_rank": 1
+    },
+    "australia": {
+      "jury_ranks": [
+        2,
+        8,
+        5,
+        5,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 18
+    },
+    "denmark": {
+      "jury_ranks": [
+        13,
+        6,
+        23,
+        25,
+        24
+      ],
+      "jury_rank": 17,
+      "televote_rank": 12
+    },
+    "serbia": {
+      "jury_ranks": [
+        21,
+        15,
+        11,
+        12,
+        10
+      ],
+      "jury_rank": 16,
+      "televote_rank": 14
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        4,
+        23,
+        15,
+        8,
+        21
+      ],
+      "jury_rank": 12,
+      "televote_rank": 5
+    },
+    "cyprus": {
+      "jury_ranks": [
+        10,
+        9,
+        2,
+        6,
+        4
+      ],
+      "jury_rank": 5,
+      "televote_rank": 4
+    },
+    "ireland": {
+      "jury_ranks": [
+        9,
+        22,
+        21,
+        14,
+        20
+      ],
+      "jury_rank": 19,
+      "televote_rank": 21
+    },
+    "albania": {
+      "jury_ranks": [
+        22,
+        16,
+        17,
+        21,
+        2
+      ],
+      "jury_rank": 11,
+      "televote_rank": 19
+    },
+    "hungary": {
+      "jury_ranks": [
+        25,
+        20,
+        25,
+        22,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 9
+    },
+    "sweden": {
+      "jury_ranks": [
+        15,
+        13,
+        19,
+        13,
+        22
+      ],
+      "jury_rank": 20,
+      "televote_rank": 15
+    },
+    "lithuania": {
+      "jury_ranks": [
+        18,
+        10,
+        13,
+        7,
+        14
+      ],
+      "jury_rank": 13,
+      "televote_rank": 17
+    },
+    "austria": {
+      "jury_ranks": [
+        3,
+        11,
+        14,
+        3,
+        15
+      ],
+      "jury_rank": 8,
+      "televote_rank": 13
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        6,
+        14,
+        1,
+        4,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 8
+    },
+    "finland": {
+      "jury_ranks": [
+        23,
+        25,
+        22,
+        24,
+        9
+      ],
+      "jury_rank": 22,
+      "televote_rank": 25
+    },
+    "portugal": {
+      "jury_ranks": [
+        19,
+        24,
+        18,
+        18,
+        18
+      ],
+      "jury_rank": 24,
+      "televote_rank": 24
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        20,
+        12,
+        24,
+        20,
+        12
+      ],
+      "jury_rank": 21,
+      "televote_rank": 23
+    },
+    "spain": {
+      "jury_ranks": [
+        17,
+        19,
+        6,
+        10,
+        16
+      ],
+      "jury_rank": 14,
+      "televote_rank": 20
+    },
+    "italy": {
+      "jury_ranks": [
+        11,
+        21,
+        20,
+        23,
+        23
+      ],
+      "jury_rank": 23,
+      "televote_rank": 3
+    },
+    "france": {
+      "jury_ranks": [
+        8,
+        17,
+        16,
+        19,
+        19
+      ],
+      "jury_rank": 18,
+      "televote_rank": 11
+    },
+    "germany": {
+      "jury_ranks": [
+        14,
+        7,
+        10,
+        1,
+        13
+      ],
+      "jury_rank": 7,
+      "televote_rank": 7
+    }
+  },
+  "czech-republic": {
+    "the-netherlands": {
+      "jury_ranks": [
+        9,
+        21,
+        24,
+        12,
+        22
+      ],
+      "jury_rank": 15,
+      "televote_rank": 20
+    },
+    "moldova": {
+      "jury_ranks": [
+        25,
+        25,
+        25,
+        24,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 5
+    },
+    "ukraine": {
+      "jury_ranks": [
+        14,
+        22,
+        22,
+        21,
+        23
+      ],
+      "jury_rank": 22,
+      "televote_rank": 1
+    },
+    "norway": {
+      "jury_ranks": [
+        17,
+        18,
+        21,
+        20,
+        21
+      ],
+      "jury_rank": 23,
+      "televote_rank": 11
+    },
+    "slovenia": {
+      "jury_ranks": [
+        3,
+        3,
+        4,
+        4,
+        5
+      ],
+      "jury_rank": 4,
+      "televote_rank": 23
+    },
+    "estonia": {
+      "jury_ranks": [
+        15,
+        12,
+        11,
+        14,
+        11
+      ],
+      "jury_rank": 13,
+      "televote_rank": 6
+    },
+    "israel": {
+      "jury_ranks": [
+        2,
+        1,
+        1,
+        3,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        20,
+        17,
+        18,
+        22,
+        20
+      ],
+      "jury_rank": 21,
+      "televote_rank": 22
+    },
+    "denmark": {
+      "jury_ranks": [
+        21,
+        23,
+        17,
+        23,
+        19
+      ],
+      "jury_rank": 24,
+      "televote_rank": 4
+    },
+    "serbia": {
+      "jury_ranks": [
+        19,
+        24,
+        20,
+        19,
+        14
+      ],
+      "jury_rank": 20,
+      "televote_rank": 15
+    },
+    "cyprus": {
+      "jury_ranks": [
+        23,
+        19,
+        10,
+        25,
+        24
+      ],
+      "jury_rank": 17,
+      "televote_rank": 3
+    },
+    "ireland": {
+      "jury_ranks": [
+        7,
+        6,
+        2,
+        2,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 7
+    },
+    "albania": {
+      "jury_ranks": [
+        1,
+        10,
+        7,
+        5,
+        3
+      ],
+      "jury_rank": 5,
+      "televote_rank": 14
+    },
+    "hungary": {
+      "jury_ranks": [
+        10,
+        11,
+        14,
+        8,
+        6
+      ],
+      "jury_rank": 9,
+      "televote_rank": 13
+    },
+    "sweden": {
+      "jury_ranks": [
+        6,
+        2,
+        5,
+        1,
+        7
+      ],
+      "jury_rank": 3,
+      "televote_rank": 18
+    },
+    "lithuania": {
+      "jury_ranks": [
+        11,
+        8,
+        12,
+        9,
+        8
+      ],
+      "jury_rank": 10,
+      "televote_rank": 16
+    },
+    "austria": {
+      "jury_ranks": [
+        4,
+        9,
+        9,
+        6,
+        4
+      ],
+      "jury_rank": 6,
+      "televote_rank": 12
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        5,
+        4,
+        6,
+        11,
+        9
+      ],
+      "jury_rank": 7,
+      "televote_rank": 10
+    },
+    "finland": {
+      "jury_ranks": [
+        8,
+        5,
+        3,
+        15,
+        10
+      ],
+      "jury_rank": 8,
+      "televote_rank": 21
+    },
+    "portugal": {
+      "jury_ranks": [
+        16,
+        7,
+        13,
+        17,
+        18
+      ],
+      "jury_rank": 14,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        12,
+        14,
+        8,
+        10,
+        15
+      ],
+      "jury_rank": 11,
+      "televote_rank": 17
+    },
+    "spain": {
+      "jury_ranks": [
+        18,
+        13,
+        23,
+        16,
+        12
+      ],
+      "jury_rank": 16,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        24,
+        20,
+        19,
+        13,
+        17
+      ],
+      "jury_rank": 19,
+      "televote_rank": 9
+    },
+    "france": {
+      "jury_ranks": [
+        22,
+        16,
+        16,
+        18,
+        16
+      ],
+      "jury_rank": 18,
+      "televote_rank": 19
+    },
+    "germany": {
+      "jury_ranks": [
+        13,
+        15,
+        15,
+        7,
+        13
+      ],
+      "jury_rank": 12,
+      "televote_rank": 8
+    }
+  },
+  "armenia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        8,
+        25,
+        11,
+        8,
+        5
+      ],
+      "jury_rank": 8,
+      "televote_rank": 15
+    },
+    "moldova": {
+      "jury_ranks": [
+        12,
+        1,
+        1,
+        1,
+        6
+      ],
+      "jury_rank": 2,
+      "televote_rank": 10
+    },
+    "ukraine": {
+      "jury_ranks": [
+        19,
+        7,
+        20,
+        17,
+        24
+      ],
+      "jury_rank": 19,
+      "televote_rank": 7
+    },
+    "norway": {
+      "jury_ranks": [
+        9,
+        10,
+        14,
+        6,
+        21
+      ],
+      "jury_rank": 12,
+      "televote_rank": 4
+    },
+    "slovenia": {
+      "jury_ranks": [
+        24,
+        18,
+        19,
+        24,
+        20
+      ],
+      "jury_rank": 26,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        13,
+        17,
+        4,
+        12,
+        22
+      ],
+      "jury_rank": 13,
+      "televote_rank": 9
+    },
+    "israel": {
+      "jury_ranks": [
+        2,
+        3,
+        3,
+        4,
+        3
+      ],
+      "jury_rank": 3,
+      "televote_rank": 2
+    },
+    "australia": {
+      "jury_ranks": [
+        25,
+        21,
+        8,
+        5,
+        7
+      ],
+      "jury_rank": 9,
+      "televote_rank": 21
+    },
+    "denmark": {
+      "jury_ranks": [
+        11,
+        20,
+        18,
+        19,
+        16
+      ],
+      "jury_rank": 20,
+      "televote_rank": 14
+    },
+    "serbia": {
+      "jury_ranks": [
+        26,
+        14,
+        21,
+        22,
+        19
+      ],
+      "jury_rank": 21,
+      "televote_rank": 20
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        6,
+        2,
+        9,
+        11,
+        11
+      ],
+      "jury_rank": 5,
+      "televote_rank": 3
+    },
+    "cyprus": {
+      "jury_ranks": [
+        5,
+        4,
+        23,
+        3,
+        2
+      ],
+      "jury_rank": 4,
+      "televote_rank": 1
+    },
+    "ireland": {
+      "jury_ranks": [
+        14,
+        5,
+        17,
+        23,
+        25
+      ],
+      "jury_rank": 16,
+      "televote_rank": 17
+    },
+    "albania": {
+      "jury_ranks": [
+        15,
+        12,
+        24,
+        14,
+        9
+      ],
+      "jury_rank": 17,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        20,
+        24,
+        26,
+        25,
+        15
+      ],
+      "jury_rank": 25,
+      "televote_rank": 18
+    },
+    "sweden": {
+      "jury_ranks": [
+        1,
+        6,
+        2,
+        2,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 24
+    },
+    "lithuania": {
+      "jury_ranks": [
+        16,
+        8,
+        5,
+        21,
+        18
+      ],
+      "jury_rank": 14,
+      "televote_rank": 13
+    },
+    "austria": {
+      "jury_ranks": [
+        18,
+        9,
+        7,
+        10,
+        8
+      ],
+      "jury_rank": 10,
+      "televote_rank": 5
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        7,
+        23,
+        22,
+        13,
+        4
+      ],
+      "jury_rank": 11,
+      "televote_rank": 11
+    },
+    "finland": {
+      "jury_ranks": [
+        22,
+        22,
+        16,
+        18,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 16
+    },
+    "portugal": {
+      "jury_ranks": [
+        10,
+        16,
+        6,
+        16,
+        17
+      ],
+      "jury_rank": 15,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        21,
+        15,
+        10,
+        15,
+        12
+      ],
+      "jury_rank": 18,
+      "televote_rank": 22
+    },
+    "spain": {
+      "jury_ranks": [
+        23,
+        19,
+        15,
+        20,
+        26
+      ],
+      "jury_rank": 23,
+      "televote_rank": 19
+    },
+    "italy": {
+      "jury_ranks": [
+        17,
+        26,
+        25,
+        26,
+        14
+      ],
+      "jury_rank": 22,
+      "televote_rank": 8
+    },
+    "france": {
+      "jury_ranks": [
+        3,
+        11,
+        13,
+        9,
+        13
+      ],
+      "jury_rank": 7,
+      "televote_rank": 6
+    },
+    "germany": {
+      "jury_ranks": [
+        4,
+        13,
+        12,
+        7,
+        10
+      ],
+      "jury_rank": 6,
+      "televote_rank": 12
+    }
+  },
+  "georgia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        5,
+        4,
+        9,
+        9,
+        11
+      ],
+      "jury_rank": 6,
+      "televote_rank": 18
+    },
+    "moldova": {
+      "jury_ranks": [
+        24,
+        26,
+        24,
+        24,
+        26
+      ],
+      "jury_rank": 26,
+      "televote_rank": 8
+    },
+    "ukraine": {
+      "jury_ranks": [
+        25,
+        25,
+        15,
+        15,
+        10
+      ],
+      "jury_rank": 20,
+      "televote_rank": 3
+    },
+    "norway": {
+      "jury_ranks": [
+        15,
+        14,
+        12,
+        16,
+        17
+      ],
+      "jury_rank": 16,
+      "televote_rank": 12
+    },
+    "slovenia": {
+      "jury_ranks": [
+        17,
+        22,
+        17,
+        23,
+        9
+      ],
+      "jury_rank": 17,
+      "televote_rank": 25
+    },
+    "estonia": {
+      "jury_ranks": [
+        1,
+        2,
+        5,
+        6,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 5
+    },
+    "israel": {
+      "jury_ranks": [
+        8,
+        7,
+        6,
+        7,
+        15
+      ],
+      "jury_rank": 8,
+      "televote_rank": 1
+    },
+    "australia": {
+      "jury_ranks": [
+        21,
+        15,
+        22,
+        19,
+        20
+      ],
+      "jury_rank": 23,
+      "televote_rank": 22
+    },
+    "denmark": {
+      "jury_ranks": [
+        10,
+        21,
+        11,
+        2,
+        16
+      ],
+      "jury_rank": 10,
+      "televote_rank": 9
+    },
+    "serbia": {
+      "jury_ranks": [
+        26,
+        19,
+        21,
+        21,
+        14
+      ],
+      "jury_rank": 22,
+      "televote_rank": 21
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        20,
+        12,
+        26,
+        13,
+        25
+      ],
+      "jury_rank": 21,
+      "televote_rank": 11
+    },
+    "cyprus": {
+      "jury_ranks": [
+        23,
+        24,
+        25,
+        25,
+        19
+      ],
+      "jury_rank": 25,
+      "televote_rank": 2
+    },
+    "ireland": {
+      "jury_ranks": [
+        12,
+        23,
+        13,
+        18,
+        8
+      ],
+      "jury_rank": 13,
+      "televote_rank": 20
+    },
+    "albania": {
+      "jury_ranks": [
+        9,
+        9,
+        8,
+        11,
+        4
+      ],
+      "jury_rank": 7,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        13,
+        11,
+        18,
+        3,
+        24
+      ],
+      "jury_rank": 11,
+      "televote_rank": 14
+    },
+    "sweden": {
+      "jury_ranks": [
+        3,
+        5,
+        1,
+        1,
+        6
+      ],
+      "jury_rank": 1,
+      "televote_rank": 15
+    },
+    "lithuania": {
+      "jury_ranks": [
+        7,
+        10,
+        7,
+        5,
+        22
+      ],
+      "jury_rank": 9,
+      "televote_rank": 4
+    },
+    "austria": {
+      "jury_ranks": [
+        4,
+        3,
+        3,
+        4,
+        1
+      ],
+      "jury_rank": 3,
+      "televote_rank": 10
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        6,
+        6,
+        2,
+        10,
+        5
+      ],
+      "jury_rank": 5,
+      "televote_rank": 16
+    },
+    "finland": {
+      "jury_ranks": [
+        11,
+        17,
+        23,
+        26,
+        12
+      ],
+      "jury_rank": 18,
+      "televote_rank": 17
+    },
+    "portugal": {
+      "jury_ranks": [
+        22,
+        20,
+        19,
+        22,
+        23
+      ],
+      "jury_rank": 24,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        14,
+        13,
+        20,
+        20,
+        13
+      ],
+      "jury_rank": 19,
+      "televote_rank": 19
+    },
+    "spain": {
+      "jury_ranks": [
+        19,
+        18,
+        14,
+        8,
+        18
+      ],
+      "jury_rank": 15,
+      "televote_rank": 24
+    },
+    "italy": {
+      "jury_ranks": [
+        16,
+        16,
+        10,
+        17,
+        7
+      ],
+      "jury_rank": 12,
+      "televote_rank": 6
+    },
+    "france": {
+      "jury_ranks": [
+        18,
+        8,
+        16,
+        12,
+        21
+      ],
+      "jury_rank": 14,
+      "televote_rank": 7
+    },
+    "germany": {
+      "jury_ranks": [
+        2,
+        1,
+        4,
+        14,
+        3
+      ],
+      "jury_rank": 4,
+      "televote_rank": 13
+    }
+  },
+  "serbia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        13,
+        4,
+        1,
+        5,
+        7
+      ],
+      "jury_rank": 4,
+      "televote_rank": 15
+    },
+    "moldova": {
+      "jury_ranks": [
+        5,
+        10,
+        7,
+        4,
+        4
+      ],
+      "jury_rank": 6,
+      "televote_rank": 10
+    },
+    "ukraine": {
+      "jury_ranks": [
+        22,
+        24,
+        19,
+        20,
+        17
+      ],
+      "jury_rank": 22,
+      "televote_rank": 18
+    },
+    "norway": {
+      "jury_ranks": [
+        2,
+        5,
+        13,
+        7,
+        6
+      ],
+      "jury_rank": 5,
+      "televote_rank": 8
+    },
+    "slovenia": {
+      "jury_ranks": [
+        11,
+        8,
+        12,
+        12,
+        15
+      ],
+      "jury_rank": 13,
+      "televote_rank": 3
+    },
+    "estonia": {
+      "jury_ranks": [
+        4,
+        13,
+        3,
+        11,
+        12
+      ],
+      "jury_rank": 8,
+      "televote_rank": 11
+    },
+    "israel": {
+      "jury_ranks": [
+        1,
+        17,
+        11,
+        8,
+        21
+      ],
+      "jury_rank": 9,
+      "televote_rank": 4
+    },
+    "australia": {
+      "jury_ranks": [
+        14,
+        15,
+        9,
+        9,
+        8
+      ],
+      "jury_rank": 12,
+      "televote_rank": 16
+    },
+    "denmark": {
+      "jury_ranks": [
+        18,
+        9,
+        15,
+        14,
+        14
+      ],
+      "jury_rank": 15,
+      "televote_rank": 7
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        21,
+        19,
+        16,
+        16,
+        23
+      ],
+      "jury_rank": 21,
+      "televote_rank": 6
+    },
+    "cyprus": {
+      "jury_ranks": [
+        10,
+        25,
+        18,
+        23,
+        22
+      ],
+      "jury_rank": 19,
+      "televote_rank": 2
+    },
+    "ireland": {
+      "jury_ranks": [
+        19,
+        7,
+        21,
+        6,
+        11
+      ],
+      "jury_rank": 11,
+      "televote_rank": 21
+    },
+    "albania": {
+      "jury_ranks": [
+        12,
+        12,
+        5,
+        13,
+        10
+      ],
+      "jury_rank": 10,
+      "televote_rank": 13
+    },
+    "hungary": {
+      "jury_ranks": [
+        16,
+        11,
+        14,
+        24,
+        20
+      ],
+      "jury_rank": 18,
+      "televote_rank": 1
+    },
+    "sweden": {
+      "jury_ranks": [
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "jury_rank": 1,
+      "televote_rank": 19
+    },
+    "lithuania": {
+      "jury_ranks": [
+        25,
+        20,
+        25,
+        21,
+        16
+      ],
+      "jury_rank": 23,
+      "televote_rank": 24
+    },
+    "austria": {
+      "jury_ranks": [
+        9,
+        6,
+        4,
+        10,
+        3
+      ],
+      "jury_rank": 7,
+      "televote_rank": 14
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        15,
+        14,
+        10,
+        22,
+        25
+      ],
+      "jury_rank": 16,
+      "televote_rank": 9
+    },
+    "finland": {
+      "jury_ranks": [
+        7,
+        22,
+        17,
+        17,
+        13
+      ],
+      "jury_rank": 14,
+      "televote_rank": 23
+    },
+    "portugal": {
+      "jury_ranks": [
+        24,
+        23,
+        23,
+        19,
+        19
+      ],
+      "jury_rank": 24,
+      "televote_rank": 25
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        23,
+        16,
+        24,
+        18,
+        9
+      ],
+      "jury_rank": 17,
+      "televote_rank": 22
+    },
+    "spain": {
+      "jury_ranks": [
+        17,
+        21,
+        20,
+        15,
+        18
+      ],
+      "jury_rank": 20,
+      "televote_rank": 20
+    },
+    "italy": {
+      "jury_ranks": [
+        8,
+        3,
+        6,
+        2,
+        5
+      ],
+      "jury_rank": 3,
+      "televote_rank": 5
+    },
+    "france": {
+      "jury_ranks": [
+        20,
+        18,
+        22,
+        25,
+        24
+      ],
+      "jury_rank": 25,
+      "televote_rank": 17
+    },
+    "germany": {
+      "jury_ranks": [
+        6,
+        1,
+        8,
+        3,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 12
+    }
+  },
+  "montenegro": {
+    "the-netherlands": {
+      "jury_ranks": [
+        13,
+        8,
+        5,
+        11,
+        7
+      ],
+      "jury_rank": 8,
+      "televote_rank": 19
+    },
+    "moldova": {
+      "jury_ranks": [
+        5,
+        19,
+        2,
+        2,
+        4
+      ],
+      "jury_rank": 3,
+      "televote_rank": 14
+    },
+    "ukraine": {
+      "jury_ranks": [
+        17,
+        18,
+        13,
+        22,
+        12
+      ],
+      "jury_rank": 21,
+      "televote_rank": 4
+    },
+    "norway": {
+      "jury_ranks": [
+        14,
+        3,
+        4,
+        9,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 11
+    },
+    "slovenia": {
+      "jury_ranks": [
+        21,
+        16,
+        19,
+        19,
+        24
+      ],
+      "jury_rank": 23,
+      "televote_rank": 5
+    },
+    "estonia": {
+      "jury_ranks": [
+        6,
+        5,
+        6,
+        10,
+        11
+      ],
+      "jury_rank": 6,
+      "televote_rank": 16
+    },
+    "israel": {
+      "jury_ranks": [
+        26,
+        10,
+        9,
+        18,
+        15
+      ],
+      "jury_rank": 18,
+      "televote_rank": 10
+    },
+    "australia": {
+      "jury_ranks": [
+        8,
+        9,
+        21,
+        6,
+        8
+      ],
+      "jury_rank": 11,
+      "televote_rank": 20
+    },
+    "denmark": {
+      "jury_ranks": [
+        7,
+        12,
+        11,
+        1,
+        16
+      ],
+      "jury_rank": 5,
+      "televote_rank": 13
+    },
+    "serbia": {
+      "jury_ranks": [
+        1,
+        1,
+        1,
+        5,
+        3
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        24,
+        14,
+        25,
+        23,
+        13
+      ],
+      "jury_rank": 22,
+      "televote_rank": 12
+    },
+    "cyprus": {
+      "jury_ranks": [
+        18,
+        24,
+        17,
+        16,
+        1
+      ],
+      "jury_rank": 10,
+      "televote_rank": 6
+    },
+    "ireland": {
+      "jury_ranks": [
+        23,
+        20,
+        22,
+        17,
+        19
+      ],
+      "jury_rank": 24,
+      "televote_rank": 22
+    },
+    "albania": {
+      "jury_ranks": [
+        3,
+        2,
+        3,
+        4,
+        2
+      ],
+      "jury_rank": 2,
+      "televote_rank": 2
+    },
+    "hungary": {
+      "jury_ranks": [
+        25,
+        26,
+        26,
+        26,
+        20
+      ],
+      "jury_rank": 26,
+      "televote_rank": 8
+    },
+    "sweden": {
+      "jury_ranks": [
+        16,
+        15,
+        8,
+        25,
+        9
+      ],
+      "jury_rank": 15,
+      "televote_rank": 9
+    },
+    "lithuania": {
+      "jury_ranks": [
+        12,
+        6,
+        16,
+        21,
+        25
+      ],
+      "jury_rank": 16,
+      "televote_rank": 25
+    },
+    "austria": {
+      "jury_ranks": [
+        10,
+        13,
+        18,
+        20,
+        22
+      ],
+      "jury_rank": 20,
+      "televote_rank": 15
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        20,
+        4,
+        15,
+        14,
+        21
+      ],
+      "jury_rank": 13,
+      "televote_rank": 7
+    },
+    "finland": {
+      "jury_ranks": [
+        22,
+        7,
+        12,
+        13,
+        10
+      ],
+      "jury_rank": 14,
+      "televote_rank": 24
+    },
+    "portugal": {
+      "jury_ranks": [
+        19,
+        22,
+        24,
+        24,
+        18
+      ],
+      "jury_rank": 25,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        2,
+        17,
+        14,
+        8,
+        17
+      ],
+      "jury_rank": 9,
+      "televote_rank": 23
+    },
+    "spain": {
+      "jury_ranks": [
+        15,
+        21,
+        7,
+        15,
+        23
+      ],
+      "jury_rank": 19,
+      "televote_rank": 21
+    },
+    "italy": {
+      "jury_ranks": [
+        4,
+        11,
+        23,
+        3,
+        14
+      ],
+      "jury_rank": 7,
+      "televote_rank": 3
+    },
+    "france": {
+      "jury_ranks": [
+        9,
+        25,
+        20,
+        7,
+        26
+      ],
+      "jury_rank": 17,
+      "televote_rank": 18
+    },
+    "germany": {
+      "jury_ranks": [
+        11,
+        23,
+        10,
+        12,
+        5
+      ],
+      "jury_rank": 12,
+      "televote_rank": 17
+    }
+  },
+  "san-marino": {
+    "the-netherlands": {
+      "jury_ranks": [
+        12,
+        3,
+        24,
+        24,
+        23
+      ],
+      "jury_rank": 17,
+      "televote_rank": 23
+    },
+    "moldova": {
+      "jury_ranks": [
+        1,
+        15,
+        9,
+        16,
+        6
+      ],
+      "jury_rank": 4,
+      "televote_rank": 9
+    },
+    "ukraine": {
+      "jury_ranks": [
+        21,
+        18,
+        25,
+        20,
+        18
+      ],
+      "jury_rank": 25,
+      "televote_rank": 6
+    },
+    "norway": {
+      "jury_ranks": [
+        14,
+        16,
+        19,
+        12,
+        19
+      ],
+      "jury_rank": 21,
+      "televote_rank": 15
+    },
+    "slovenia": {
+      "jury_ranks": [
+        7,
+        10,
+        2,
+        23,
+        8
+      ],
+      "jury_rank": 5,
+      "televote_rank": 24
+    },
+    "estonia": {
+      "jury_ranks": [
+        5,
+        13,
+        13,
+        2,
+        25
+      ],
+      "jury_rank": 6,
+      "televote_rank": 11
+    },
+    "israel": {
+      "jury_ranks": [
+        6,
+        2,
+        1,
+        1,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 1
+    },
+    "australia": {
+      "jury_ranks": [
+        18,
+        7,
+        16,
+        9,
+        4
+      ],
+      "jury_rank": 9,
+      "televote_rank": 17
+    },
+    "denmark": {
+      "jury_ranks": [
+        11,
+        14,
+        17,
+        26,
+        3
+      ],
+      "jury_rank": 14,
+      "televote_rank": 5
+    },
+    "serbia": {
+      "jury_ranks": [
+        13,
+        20,
+        10,
+        18,
+        1
+      ],
+      "jury_rank": 8,
+      "televote_rank": 13
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        17,
+        8,
+        15,
+        4,
+        10
+      ],
+      "jury_rank": 11,
+      "televote_rank": 2
+    },
+    "cyprus": {
+      "jury_ranks": [
+        23,
+        24,
+        12,
+        10,
+        12
+      ],
+      "jury_rank": 20,
+      "televote_rank": 4
+    },
+    "ireland": {
+      "jury_ranks": [
+        4,
+        12,
+        6,
+        13,
+        21
+      ],
+      "jury_rank": 10,
+      "televote_rank": 8
+    },
+    "albania": {
+      "jury_ranks": [
+        15,
+        19,
+        21,
+        21,
+        26
+      ],
+      "jury_rank": 24,
+      "televote_rank": 22
+    },
+    "hungary": {
+      "jury_ranks": [
+        26,
+        26,
+        26,
+        25,
+        16
+      ],
+      "jury_rank": 26,
+      "televote_rank": 16
+    },
+    "sweden": {
+      "jury_ranks": [
+        8,
+        1,
+        14,
+        6,
+        7
+      ],
+      "jury_rank": 3,
+      "televote_rank": 21
+    },
+    "lithuania": {
+      "jury_ranks": [
+        19,
+        25,
+        22,
+        17,
+        13
+      ],
+      "jury_rank": 23,
+      "televote_rank": 19
+    },
+    "austria": {
+      "jury_ranks": [
+        24,
+        9,
+        7,
+        14,
+        22
+      ],
+      "jury_rank": 18,
+      "televote_rank": 14
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        10,
+        21,
+        5,
+        8,
+        24
+      ],
+      "jury_rank": 16,
+      "televote_rank": 12
+    },
+    "finland": {
+      "jury_ranks": [
+        20,
+        22,
+        18,
+        22,
+        11
+      ],
+      "jury_rank": 22,
+      "televote_rank": 20
+    },
+    "portugal": {
+      "jury_ranks": [
+        25,
+        11,
+        23,
+        7,
+        5
+      ],
+      "jury_rank": 15,
+      "televote_rank": 26
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        9,
+        17,
+        3,
+        19,
+        14
+      ],
+      "jury_rank": 13,
+      "televote_rank": 10
+    },
+    "spain": {
+      "jury_ranks": [
+        16,
+        23,
+        8,
+        11,
+        15
+      ],
+      "jury_rank": 19,
+      "televote_rank": 25
+    },
+    "italy": {
+      "jury_ranks": [
+        2,
+        6,
+        11,
+        15,
+        17
+      ],
+      "jury_rank": 7,
+      "televote_rank": 3
+    },
+    "france": {
+      "jury_ranks": [
+        22,
+        4,
+        20,
+        5,
+        20
+      ],
+      "jury_rank": 12,
+      "televote_rank": 18
+    },
+    "germany": {
+      "jury_ranks": [
+        3,
+        5,
+        4,
+        3,
+        9
+      ],
+      "jury_rank": 2,
+      "televote_rank": 7
+    }
+  },
+  "australia": {
+    "the-netherlands": {
+      "jury_ranks": [
+        7,
+        16,
+        12,
+        23,
+        15
+      ],
+      "jury_rank": 17,
+      "televote_rank": 22
+    },
+    "moldova": {
+      "jury_ranks": [
+        14,
+        5,
+        9,
+        6,
+        18
+      ],
+      "jury_rank": 9,
+      "televote_rank": 6
+    },
+    "ukraine": {
+      "jury_ranks": [
+        21,
+        10,
+        7,
+        12,
+        16
+      ],
+      "jury_rank": 15,
+      "televote_rank": 16
+    },
+    "norway": {
+      "jury_ranks": [
+        11,
+        14,
+        13,
+        11,
+        10
+      ],
+      "jury_rank": 16,
+      "televote_rank": 10
+    },
+    "slovenia": {
+      "jury_ranks": [
+        25,
+        23,
+        18,
+        22,
+        25
+      ],
+      "jury_rank": 25,
+      "televote_rank": 14
+    },
+    "estonia": {
+      "jury_ranks": [
+        10,
+        3,
+        1,
+        9,
+        20
+      ],
+      "jury_rank": 3,
+      "televote_rank": 11
+    },
+    "israel": {
+      "jury_ranks": [
+        9,
+        8,
+        10,
+        4,
+        4
+      ],
+      "jury_rank": 5,
+      "televote_rank": 1
+    },
+    "denmark": {
+      "jury_ranks": [
+        15,
+        6,
+        15,
+        16,
+        6
+      ],
+      "jury_rank": 13,
+      "televote_rank": 2
+    },
+    "serbia": {
+      "jury_ranks": [
+        20,
+        21,
+        11,
+        18,
+        17
+      ],
+      "jury_rank": 23,
+      "televote_rank": 21
+    },
+    "czech-republic": {
+      "jury_ranks": [
+        18,
+        17,
+        25,
+        24,
+        1
+      ],
+      "jury_rank": 10,
+      "televote_rank": 8
+    },
+    "cyprus": {
+      "jury_ranks": [
+        5,
+        9,
+        22,
+        10,
+        9
+      ],
+      "jury_rank": 11,
+      "televote_rank": 4
+    },
+    "ireland": {
+      "jury_ranks": [
+        8,
+        7,
+        23,
+        5,
+        3
+      ],
+      "jury_rank": 7,
+      "televote_rank": 3
+    },
+    "albania": {
+      "jury_ranks": [
+        13,
+        13,
+        6,
+        19,
+        8
+      ],
+      "jury_rank": 14,
+      "televote_rank": 23
+    },
+    "hungary": {
+      "jury_ranks": [
+        24,
+        11,
+        16,
+        14,
+        12
+      ],
+      "jury_rank": 19,
+      "televote_rank": 15
+    },
+    "sweden": {
+      "jury_ranks": [
+        4,
+        1,
+        8,
+        1,
+        2
+      ],
+      "jury_rank": 1,
+      "televote_rank": 12
+    },
+    "lithuania": {
+      "jury_ranks": [
+        1,
+        22,
+        4,
+        25,
+        19
+      ],
+      "jury_rank": 8,
+      "televote_rank": 20
+    },
+    "austria": {
+      "jury_ranks": [
+        17,
+        4,
+        5,
+        3,
+        22
+      ],
+      "jury_rank": 6,
+      "televote_rank": 13
+    },
+    "bulgaria": {
+      "jury_ranks": [
+        22,
+        18,
+        24,
+        7,
+        23
+      ],
+      "jury_rank": 20,
+      "televote_rank": 19
+    },
+    "finland": {
+      "jury_ranks": [
+        23,
+        20,
+        19,
+        13,
+        21
+      ],
+      "jury_rank": 24,
+      "televote_rank": 7
+    },
+    "portugal": {
+      "jury_ranks": [
+        6,
+        24,
+        20,
+        20,
+        24
+      ],
+      "jury_rank": 18,
+      "televote_rank": 24
+    },
+    "united-kingdom": {
+      "jury_ranks": [
+        19,
+        19,
+        14,
+        15,
+        11
+      ],
+      "jury_rank": 21,
+      "televote_rank": 5
+    },
+    "spain": {
+      "jury_ranks": [
+        2,
+        25,
+        2,
+        17,
+        13
+      ],
+      "jury_rank": 4,
+      "televote_rank": 25
+    },
+    "italy": {
+      "jury_ranks": [
+        12,
+        15,
+        17,
+        8,
+        5
+      ],
+      "jury_rank": 12,
+      "televote_rank": 17
+    },
+    "france": {
+      "jury_ranks": [
+        16,
+        12,
+        21,
+        21,
+        14
+      ],
+      "jury_rank": 22,
+      "televote_rank": 18
+    },
+    "germany": {
+      "jury_ranks": [
+        3,
+        2,
+        3,
+        2,
+        7
+      ],
+      "jury_rank": 2,
+      "televote_rank": 9
+    }
+  }
+}

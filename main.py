@@ -1,4 +1,5 @@
 from requests_html import HTMLSession
+import json
 import re
 
 points = [0, 12, 10, 8, 7, 6, 5, 4, 3, 2, 1]
@@ -7,9 +8,17 @@ ranks = [0, 10, 9, 8, 7, 6, 5, 4, 3, 0, 2, 0, 1]
 BASE_URL = 'https://eurovision.tv/event/{}/{}/results'
 
 session = HTMLSession()
+# response = session.get(BASE_URL.format('tel-aviv-2019', 'first-semi-final'))
+# response = session.get(BASE_URL.format('tel-aviv-2019', 'second-semi-final'))
 response = session.get(BASE_URL.format('tel-aviv-2019', 'grand-final'))
+# response = session.get(BASE_URL.format('lisbon-2018', 'first-semi-final'))
+# response = session.get(BASE_URL.format('lisbon-2018', 'second-semi-final'))
 # response = session.get(BASE_URL.format('lisbon-2018', 'grand-final'))
+# response = session.get(BASE_URL.format('kyiv-2017', 'first-semi-final'))
+# response = session.get(BASE_URL.format('kyiv-2017', 'second-semi-final'))
 # response = session.get(BASE_URL.format('kyiv-2017', 'grand-final'))
+# response = session.get(BASE_URL.format('stockholm-2016', 'first-semi-final'))
+# response = session.get(BASE_URL.format('stockholm-2016', 'second-semi-final'))
 # response = session.get(BASE_URL.format('stockholm-2016', 'grand-final'))
 
 country_votings_links = list(map(lambda e: e.attrs['value'], list(filter(lambda e: 'value' in e.attrs.keys(), response.html.find('.event-round select:nth-child(1) option')))))
@@ -59,10 +68,12 @@ for link in country_votings_links:
 		for line in result_lines:
 			country = line.find('td', first=True).text
 			jury_ranks = []
-			for i in range(0,5):
+			# There can be less than 5 jurors (see Russia in 2016), we need to account for that to hit the right cells of the table
+			jurors_count = voting_page_response.html.find('ul.mb-30', first=True).text.count("Juror")
+			for i in range(0,jurors_count):
 				jury_ranks.append(int(line.find('td:nth-child(' + str(i+3) +')', first=True).text))
-			jury_rank = int(re.sub(r'(?:[0-9]{1,2} point[s]* )*([0-9]{1,2})(st|nd|rd|th)', r'\1', line.find('td:nth-child(8)', first=True).text))
-			televote_rank = int(re.sub(r'(?:[0-9]{1,2} point[s]* )*([0-9]{1,2})(st|nd|rd|th)', r'\1', line.find('td:nth-child(9)', first=True).text))
+			jury_rank = int(re.sub(r'(?:[0-9]{1,2} point[s]* )*([0-9]{1,2})(st|nd|rd|th)', r'\1', line.find('td:nth-child(' + str(jurors_count+3) + ')', first=True).text))
+			televote_rank = int(re.sub(r'(?:[0-9]{1,2} point[s]* )*([0-9]{1,2})(st|nd|rd|th)', r'\1', line.find('td:nth-child(' + str(jurors_count+4) + ')', first=True).text))
 			voting_country_results[country.lower().replace(' ', '-')] = {
 				'jury_ranks': jury_ranks,
 				'jury_rank': jury_rank,
@@ -70,6 +81,8 @@ for link in country_votings_links:
 			}
 
 	votes_by_country[voting_country] = voting_country_results
+
+# print(json.dumps(votes_by_country))
 
 # recomputing points
 
