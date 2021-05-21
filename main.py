@@ -95,8 +95,34 @@ for result_link in result_links:
 	# uncomment the following line to print the results as json
 	# print(json.dumps(votes_by_country))
 
-	# recomputing points (2015 style)
+	# recomputing points (current style, using provided jury rank) - for reconciliation purposes
+	# participating_countries = list(votes_by_country[list(votes_by_country.keys())[0]].keys())
+	# participating_countries.append(list(votes_by_country.keys())[0])
 
+	# results = {}
+	# for country in participating_countries:
+	# 	results[country] = 0
+
+	# for voting_country in votes_by_country.keys():
+	# 	votes = votes_by_country[voting_country]
+	# 	ranking = []
+	# 	for country in votes.keys():
+	# 		jury_rank = votes[country]['jury_rank']
+	# 		televote_rank = votes[country]['televote_rank']
+	# 		ranking.append({'country': country, 'jury_rank': jury_rank, 'televote_rank': televote_rank})
+
+	# 	for country_rank in ranking:
+	# 		if country_rank['jury_rank'] <= 10:
+	# 			results[country_rank['country']] += points[country_rank['jury_rank']]
+	# 		if country_rank['televote_rank'] <= 10:
+	# 			results[country_rank['country']] += points[country_rank['televote_rank']]
+
+	# print(re.sub(r'https://eurovision\.tv/event/([a-z0-9\-]+)/([a-z\-]+)/results', r'\1\n\2', result_link).replace("-", " ").replace("first semi final", "Semi-final 1").replace("second semi final", "Semi-final 2").title())
+	# for country in {k: v for k, v in sorted(results.items(), key=lambda item: item[1], reverse=True)}.keys():
+	# 	print(country.replace("-", " ").title() + ";" + str(results[country]))
+	# print("\n")
+
+	# recomputing points (2015 style, recomputing the jury rank as an average of all jury ranks)
 	# participating_countries = list(votes_by_country[list(votes_by_country.keys())[0]].keys())
 	# participating_countries.append(list(votes_by_country.keys())[0])
 
