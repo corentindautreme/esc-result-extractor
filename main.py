@@ -21,7 +21,7 @@ result_links = [
 	BASE_URL.format('lisbon-2018', 'grand-final'),
 	BASE_URL.format('kyiv-2017', 'first-semi-final'),
 	BASE_URL.format('kyiv-2017', 'second-semi-final'),
-	BASE_URL.format('kyiv-2017', 'grand-final')
+	BASE_URL.format('kyiv-2017', 'grand-final'),
 	BASE_URL.format('stockholm-2016', 'first-semi-final'),
 	BASE_URL.format('stockholm-2016', 'second-semi-final'),
 	BASE_URL.format('stockholm-2016', 'grand-final')
