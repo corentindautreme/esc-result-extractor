@@ -1,12 +1,12 @@
 # Extracts
 
-I've run the script a few times to extract the results of all shows for the period 2016-2019. The results are presented in each json file in the following way:
+I've run the script a few times to extract the results of all shows for the period 2016-2022. The results are presented in each json file in the following way:
 
 ```
 {
 	'voting_country1': {
 		'country1': {
-			'jury_ranks': [], // array of ints
+			'jury_ranks': [int],
 			'jury_rank': int,
 			'televote_rank': int
 		},
