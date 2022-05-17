@@ -3,14 +3,14 @@ import json
 import re
 from functools import cmp_to_key
 
-def compare_rankings(r1, r2):
-	if r1['rank'] != r2['rank']:
-		return r1['rank'] - r2['rank']
+def compare_jury_rankings(r1, r2):
+	if r1[1]['rank'] != r2[1]['rank']:
+		return r1[1]['rank'] - r2[1]['rank']
 	else:
 		jurors_in_favor_of_1 = 0
 		jurors_in_favor_of_2 = 0
-		for i in range(0, len(r1['jury_ranks'])):
-			if r1['jury_ranks'][i] < r2['jury_ranks'][i]:
+		for i in range(0, len(r1[1]['jury_ranks'])):
+			if r1[1]['jury_ranks'][i] < r2[1]['jury_ranks'][i]:
 				jurors_in_favor_of_1 += 1
 			else:
 				jurors_in_favor_of_2 += 1
@@ -25,21 +25,24 @@ if __name__ == '__main__':
 	session = HTMLSession()
 
 	result_links = [
-		BASE_URL.format('rotterdam-2021', 'first-semi-final'),
-		BASE_URL.format('rotterdam-2021', 'second-semi-final'),
-		BASE_URL.format('rotterdam-2021', 'grand-final'),
-		BASE_URL.format('tel-aviv-2019', 'first-semi-final'),
-		BASE_URL.format('tel-aviv-2019', 'second-semi-final'),
-		BASE_URL.format('tel-aviv-2019', 'grand-final'),
-		BASE_URL.format('lisbon-2018', 'first-semi-final'),
-		BASE_URL.format('lisbon-2018', 'second-semi-final'),
-		BASE_URL.format('lisbon-2018', 'grand-final'),
-		BASE_URL.format('kyiv-2017', 'first-semi-final'),
-		BASE_URL.format('kyiv-2017', 'second-semi-final'),
-		BASE_URL.format('kyiv-2017', 'grand-final'),
-		BASE_URL.format('stockholm-2016', 'first-semi-final'),
-		BASE_URL.format('stockholm-2016', 'second-semi-final'),
-		BASE_URL.format('stockholm-2016', 'grand-final')
+		BASE_URL.format('turin-2022', 'first-semi-final'),
+		BASE_URL.format('turin-2022', 'second-semi-final'),
+		BASE_URL.format('turin-2022', 'grand-final')
+		# BASE_URL.format('rotterdam-2021', 'first-semi-final'),
+		# BASE_URL.format('rotterdam-2021', 'second-semi-final'),
+		# BASE_URL.format('rotterdam-2021', 'grand-final'),
+		# BASE_URL.format('tel-aviv-2019', 'first-semi-final'),
+		# BASE_URL.format('tel-aviv-2019', 'second-semi-final'),
+		# BASE_URL.format('tel-aviv-2019', 'grand-final'),
+		# BASE_URL.format('lisbon-2018', 'first-semi-final'),
+		# BASE_URL.format('lisbon-2018', 'second-semi-final'),
+		# BASE_URL.format('lisbon-2018', 'grand-final'),
+		# BASE_URL.format('kyiv-2017', 'first-semi-final'),
+		# BASE_URL.format('kyiv-2017', 'second-semi-final'),
+		# BASE_URL.format('kyiv-2017', 'grand-final'),
+		# BASE_URL.format('stockholm-2016', 'first-semi-final'),
+		# BASE_URL.format('stockholm-2016', 'second-semi-final'),
+		# BASE_URL.format('stockholm-2016', 'grand-final')
 	]
 
 	for result_link in result_links:
@@ -67,11 +70,15 @@ if __name__ == '__main__':
 				jury_points = {}
 				# Televote
 				televote_lines = voting_page_response.html.find('section.w-full > div:nth-child(4) > div:nth-child(1) > table:nth-child(1) tbody tr')
+				if len(televote_lines) == 0:
+					televote_lines = voting_page_response.html.find('div:nth-child(1) > table tbody tr')
 				for line in televote_lines:
 					country = line.find('td:nth-child(2)', first=True).text.strip().lower().replace(' ', '-')
 					televote_points[country] = int(line.find('td:nth-child(1)', first=True).text)
 				# Jury
 				jury_lines = voting_page_response.html.find('section.w-full > div:nth-child(4) > div:nth-child(2) > table:nth-child(1) tbody tr')
+				if len(jury_lines) == 0:
+					jury_lines = voting_page_response.html.find('div:nth-child(2) > table tbody tr')
 				for line in jury_lines:
 					country = line.find('td:nth-child(2)', first=True).text.strip().lower().replace(' ', '-')
 					jury_points[country] = int(line.find('td:nth-child(1)', first=True).text)
@@ -210,6 +217,7 @@ if __name__ == '__main__':
 
 		# for voting_country in votes_by_country.keys():
 		# 	votes = votes_by_country[voting_country]
+		# 	jury_average_rankings = {}
 		# 	ranking = []
 		# 	for country in votes.keys():
 		# 		if country not in results:
@@ -232,18 +240,40 @@ if __name__ == '__main__':
 
 		# 		if len(votes[country]['jury_ranks']) > 0:
 		# 			jury_average_rank = sum(votes[country]['jury_ranks']) / len(votes[country]['jury_ranks'])
-		# 			average_rank = 0
-		# 			if voting_country not in invalid_televote:
-		# 				average_rank += votes[country]['televote_rank']
-		# 			if voting_country not in invalid_jury:
-		# 				average_rank += jury_average_rank
+		# 			jury_average_rankings[country] = {'rank': jury_average_rank, 'jury_ranks': votes[country]['jury_ranks']}
 		# 		else:
-		# 			average_rank = votes[country]['televote_rank']
-		# 		ranking.append({'country': country, 'rank': average_rank, 'televote_rank': votes[country]['televote_rank'], 'jury_ranks': votes[country]['jury_ranks']})
+		# 			jury_average_rankings[country] = {'rank': 0, 'jury_ranks': []}
+
+		# 		# 	average_rank = 0
+		# 		# 	if voting_country not in invalid_televote:
+		# 		# 		average_rank += votes[country]['televote_rank']
+		# 		# 	if voting_country not in invalid_jury:
+		# 		# 		average_rank += jury_average_rank
+		# 		# else:
+		# 		# 	average_rank = votes[country]['televote_rank']
+		# 		# ranking.append({'country': country, 'rank': average_rank, 'televote_rank': votes[country]['televote_rank'], 'jury_ranks': votes[country]['jury_ranks']})
+
+		# 	# jury_average_rankings = dict(sorted(jury_average_rankings.items(), key=lambda item: (item[1]['rank'], item[1]['chair'])))
+		# 	# jury_average_rankings = jury_average_rankings.sort(key=cmp_to_key(compare_jury_rankings))
+
+		# 	# jury tie-break: we use a jury "show of hands" simulation tie-break: whichever country got ranked higher by the most jurors wins the tie-break
+		# 	jury_average_rankings = dict(sorted(jury_average_rankings.items(), key=cmp_to_key(compare_jury_rankings)))
+
+		# 	for i, k in enumerate(jury_average_rankings.keys(), start=1):
+		# 		jury_average_rankings[k] = i
+
+		# 	for country in votes.keys():
+		# 		average_rank = 0
+		# 		if voting_country not in invalid_televote:
+		# 			average_rank += votes[country]['televote_rank']
+		# 		if voting_country not in invalid_jury:
+		# 			average_rank += jury_average_rankings[country]
+		# 		ranking.append({'country': country, 'rank': average_rank, 'televote_rank': votes[country]['televote_rank']})
+
 		# 	if voting_country not in invalid_televote: # valid televote => we use the televote ranking as tie-breaker
 		# 		ranking = sorted(ranking, key=lambda k: (k['rank'], k['televote_rank']))
-		# 	else: # no valid televote => we use a jury "show of hands" simulation tie-break: whichever country got ranked higher by the most jurors wins the tie-break
-		# 		ranking.sort(key=cmp_to_key(compare_rankings))
+		# 	else: # no valid televote => we sort on the rank (which was computed using the jury rank only a few lines above)
+		# 		ranking = sorted(ranking, key=lambda k: k['rank'])
 
 		# 	for i, country_rank in enumerate(ranking[:10], start=1):
 		# 		results[country_rank['country']]['score'] += points[i]
